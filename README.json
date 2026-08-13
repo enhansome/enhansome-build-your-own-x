@@ -1,0 +1,594 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Tutorials"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Python: A Large Language Model (LLM)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-10T01:11:40Z",
+            "owner": "rasbt",
+            "repo": "LLMs-from-scratch",
+            "stars": 102541
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python: RAG for Document Search",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-06-26T03:16:10Z",
+            "owner": "langchain-ai",
+            "repo": "rag-from-scratch",
+            "stars": 9114
+          }
+        }
+      ],
+      "title": "Build your own"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "JavaScript: Creating a blockchain with JavaScript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-21T21:54:44Z",
+            "owner": "Savjee",
+            "repo": "SavjeeCoin",
+            "stars": 1770
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JavaScript: A cryptocurrency implementation in less than 1500 lines of code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-05-28T11:58:54Z",
+            "owner": "conradoqg",
+            "repo": "naivecoin",
+            "stars": 1288
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JavaScript: Build your own Blockchain in JavaScript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-03-17T15:41:17Z",
+            "owner": "nambrot",
+            "repo": "blockchain-in-js",
+            "stars": 1135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ruby: Programming Blockchains Step-by-Step (Manuscripts Book Edition)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2021-01-02T10:52:07Z",
+            "owner": "openblockchains",
+            "repo": "programming-blockchains",
+            "stars": 680
+          }
+        }
+      ],
+      "title": "Build your own"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Shell: Docker implemented in around 100 lines of bash",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2017-12-09T14:16:38Z",
+            "owner": "p8952",
+            "repo": "bocker",
+            "stars": 12662
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python: A workshop on Linux containers: Rebuild Docker from Scratch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-28T14:28:42Z",
+            "owner": "Fewbytes",
+            "repo": "rubber-docker",
+            "stars": 3243
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python: A proof-of-concept imitation of Docker, written in 100% Python",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-07-01T06:48:38Z",
+            "owner": "tonybaloney",
+            "repo": "mocker",
+            "stars": 953
+          }
+        }
+      ],
+      "title": "Build your own"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Python: Build Deep Learning From Scratch (reimplement PyTorch internals across 34 stages)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-11T10:11:05Z",
+            "owner": "roiamiel1",
+            "repo": "Build-Deep-Learning-From-Scratch",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python: SlowTorch: Implementation of PyTorch from the ground up in 100% pure Python",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-07T05:23:45Z",
+            "owner": "xames3",
+            "repo": "slowtorch",
+            "stars": 26
+          }
+        }
+      ],
+      "title": "Build your own"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "C: How to create an OS from scratch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-04T09:33:56Z",
+            "owner": "cfenollosa",
+            "repo": "os-tutorial",
+            "stars": 30652
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C: Learning operating system development using Linux kernel and Raspberry Pi",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-03-29T21:19:52Z",
+            "owner": "s-matyukevich",
+            "repo": "raspberry-pi-os",
+            "stars": 13910
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C: Build a minimal multi-tasking kernel for ARM from scratch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-12-14T15:44:05Z",
+            "owner": "jserv",
+            "repo": "mini-arm-os",
+            "stars": 1252
+          }
+        }
+      ],
+      "title": "Build your own"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "JavaScript: The Super Tiny Compiler",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-02-19T12:33:21Z",
+            "owner": "jamiebuilds",
+            "repo": "the-super-tiny-compiler",
+            "stars": 28561
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C: A journey explaining how to build a compiler from scratch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-06T21:17:51Z",
+            "owner": "DoctorWkt",
+            "repo": "acwj",
+            "stars": 13376
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(any): mal - Make a Lisp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2025-10-22T16:42:57Z",
+            "owner": "kanaka",
+            "repo": "mal",
+            "stars": 10706
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C: C interpreter that interprets itself.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-11-22T01:54:12Z",
+            "owner": "lotabout",
+            "repo": "write-a-C-interpreter",
+            "stars": 4393
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Assembly: Jonesforth",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2023-04-04T16:56:38Z",
+            "owner": "nornagon",
+            "repo": "jonesforth",
+            "stars": 1122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Go: The Super Tiny Compiler",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-12-02T14:27:59Z",
+            "owner": "hazbo",
+            "repo": "the-super-tiny-compiler",
+            "stars": 684
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C: A C & x86 version of the \"Let's Build a Compiler\" by Jack Crenshaw",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2018-10-19T00:43:21Z",
+            "owner": "lotabout",
+            "repo": "Let-s-build-a-compiler",
+            "stars": 580
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JavaScript: The Super Tiny Interpreter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-08-03T10:03:45Z",
+            "owner": "keyz",
+            "repo": "the-super-tiny-interpreter",
+            "stars": 180
+          }
+        }
+      ],
+      "title": "Build your own"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "C: Let's build a shell!",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-07-28T00:47:41Z",
+            "owner": "kamalmarhubi",
+            "repo": "shell-workshop",
+            "stars": 703
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C: Build Your Own Shell",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Tcl",
+            "last_commit": "2024-02-28T16:53:34Z",
+            "owner": "tokenrove",
+            "repo": "build-your-own-shell",
+            "stars": 504
+          }
+        }
+      ],
+      "title": "Build your own"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "JavaScript: JavaScript Algorithms and Data Structures",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-26T02:43:08Z",
+            "owner": "trekhleb",
+            "repo": "javascript-algorithms",
+            "stars": 196453
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C++: Build your own VR headset for $200",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-07-21T16:01:36Z",
+            "owner": "relativty",
+            "repo": "Relativty",
+            "stars": 7227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rust: Building a DNS server in Rust",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-04-28T10:33:26Z",
+            "owner": "EmilHernvall",
+            "repo": "dnsguide",
+            "stars": 4657
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C: Learn how to write a hash table in C",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-16T14:30:33Z",
+            "owner": "jamesroutley",
+            "repo": "write-a-hash-table",
+            "stars": 4366
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lua: Building a CDN from Scratch to Learn about CDN",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-01-21T19:34:14Z",
+            "owner": "leandromoreira",
+            "repo": "cdn-up-and-running",
+            "stars": 3687
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JavaScript: Build Your Own Module Bundler - Minipack",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-02-14T14:51:03Z",
+            "owner": "ronami",
+            "repo": "minipack",
+            "stars": 3299
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TypeScript: Tiny Package Manager: Learns how npm or Yarn works",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-11-29T03:02:11Z",
+            "owner": "g-plane",
+            "repo": "tiny-package-manager",
+            "stars": 473
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Go: Video Encoding from Scratch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-03-07T05:13:32Z",
+            "owner": "kevmo314",
+            "repo": "codec-from-scratch",
+            "stars": 462
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kotlin: Build Your Own Cache",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-04-27T04:48:55Z",
+            "owner": "kezhenxu94",
+            "repo": "cache-lite",
+            "stars": 167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python: JSON Decoding Algorithm",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-08-28T21:43:32Z",
+            "owner": "cheery",
+            "repo": "json-algorithm",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(any): build-your-own-x-vibe-coding: BYOX-style tutorials adapted for vibe coding",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-05T07:44:07Z",
+            "owner": "inFaaa",
+            "repo": "build-your-own-x-vibe-coding",
+            "stars": 95
+          }
+        }
+      ],
+      "title": "Uncategorized"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Submissions welcome, just send a PR, or create an issue",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Markdown",
+            "last_commit": "2026-07-14T19:25:58Z",
+            "owner": "codecrafters-io",
+            "repo": "build-your-own-x",
+            "stars": 539184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Help us review pending submissions",
+          "description": "by leaving comments and \"reactions\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Markdown",
+            "last_commit": "2026-07-14T19:25:58Z",
+            "owner": "codecrafters-io",
+            "repo": "build-your-own-x",
+            "stars": 539184
+          }
+        }
+      ],
+      "title": "Contribute"
+    },
+    {
+      "description": "This repository is the work of many contributors. It was started by Daniel Stefanovic, and is now maintained by CodeCrafters, Inc. To the extent possible under law, CodeCrafters, Inc. has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "Origins & License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:08:55.592Z",
+    "original_repository": "codecrafters-io/build-your-own-x",
+    "original_repository_sha": "aa17439b62f384511a5561ce308e9598b94d8989",
+    "enhanced_repository": "enhansome/enhansome-build-your-own-x",
+    "enhanced_repository_description": null,
+    "title": "Awesome build your own x with stars"
+  }
+}
