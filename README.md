@@ -45,12 +45,12 @@ It's a great way to learn.
 
 #### Build your own `Distributed Systems`
 
-* [**Java**: *Building Your Own Kafka-like System From Scratch: A Step-by-Step Guide*](https://github.com/buildthingsuseful/build-your-own-kafka) ⭐ 109 | 🐛 1 | 🌐 Java | 📅 2025-03-13
+* [**Java**: *Building Your Own Kafka-like System From Scratch: A Step-by-Step Guide*](https://github.com/buildthingsuseful/build-your-own-kafka) ⭐ 110 | 🐛 1 | 🌐 Java | 📅 2025-03-13
 
 #### Build your own `3D Renderer`
 
 * [**C++**: *Introduction to Ray Tracing: a Simple Method for Creating 3D Images*](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing/how-does-it-work)
-* [**C++**: *How OpenGL works: software rendering in 500 lines of code*](https://github.com/ssloy/tinyrenderer/wiki) ⭐ 24,097 | 🐛 4 | 🌐 C++ | 📅 2026-07-29
+* [**C++**: *How OpenGL works: software rendering in 500 lines of code*](https://github.com/ssloy/tinyrenderer/wiki) ⭐ 24,104 | 🐛 4 | 🌐 C++ | 📅 2026-07-29
 * [**C++**: *Raycasting engine of Wolfenstein 3D*](http://lodev.org/cgtutor/raycasting.html)
 * [**C++**: *Physically Based Rendering:From Theory To Implementation*](http://www.pbr-book.org/)
 * [**C++**: *Ray Tracing in One Weekend*](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
@@ -63,8 +63,8 @@ It's a great way to learn.
 
 #### Build your own `AI Model`
 
-* [**Python**: *A Large Language Model (LLM)*](https://github.com/rasbt/LLMs-from-scratch) ⭐ 102,742 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-08-10
-* [**Python**: *RAG for Document Search*](https://github.com/langchain-ai/rag-from-scratch) ⭐ 9,124 | 🐛 38 | 🌐 Jupyter Notebook | 📅 2025-06-26
+* [**Python**: *A Large Language Model (LLM)*](https://github.com/rasbt/LLMs-from-scratch) ⭐ 102,807 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-08-10
+* [**Python**: *RAG for Document Search*](https://github.com/langchain-ai/rag-from-scratch) ⭐ 9,130 | 🐛 38 | 🌐 Jupyter Notebook | 📅 2025-06-26
 * [**Python**: *Diffusion Models for Image Generation*](https://huggingface.co/learn/diffusion-course/en/unit1/3)
 
 #### Build your own `Augmented Reality`
@@ -88,7 +88,7 @@ It's a great way to learn.
 
 * [**JavaScript**: *Creating a blockchain with JavaScript*](https://github.com/SavjeeTutorials/SavjeeCoin) ⭐ 1,770 | 🐛 2 | 🌐 JavaScript | 📅 2025-11-21
 * [**JavaScript**: *A cryptocurrency implementation in less than 1500 lines of code*](https://github.com/conradoqg/naivecoin) ⭐ 1,288 | 🐛 20 | 🌐 JavaScript | 📅 2024-05-28
-* [**JavaScript**: *Build your own Blockchain in JavaScript*](https://github.com/nambrot/blockchain-in-js) ⭐ 1,135 | 🐛 2 | 🌐 JavaScript | 📅 2022-03-17
+* [**JavaScript**: *Build your own Blockchain in JavaScript*](https://github.com/nambrot/blockchain-in-js) ⭐ 1,134 | 🐛 2 | 🌐 JavaScript | 📅 2022-03-17
 * [**Ruby**: *Programming Blockchains Step-by-Step (Manuscripts Book Edition)*](https://github.com/yukimotopress/programming-blockchains-step-by-step) ⭐ 680 | 🐛 0 | 🌐 Ruby | 📅 2021-01-02
 * [**ATS**: *Functional Blockchain*](https://beta.observablehq.com/@galletti94/functional-blockchain)
 * [**Crystal**: *Write your own blockchain and PoW algorithm using Crystal*](https://medium.com/@bradford_hamilton/write-your-own-blockchain-and-pow-algorithm-using-crystal-d53d5d9d0c52)
@@ -182,7 +182,7 @@ It's a great way to learn.
 #### Build your own `Front-end Framework / Library`
 
 * [**JavaScript**: *WTF is JSX (Let's Build a JSX Renderer)*](https://jasonformat.com/wtf-is-jsx/)
-* [**JavaScript**: *A DIY guide to build your own React*](https://github.com/hexacta/didact) ⭐ 6,768 | 🐛 29 | 🌐 JavaScript | 📅 2026-01-31
+* [**JavaScript**: *A DIY guide to build your own React*](https://github.com/hexacta/didact) ⭐ 6,767 | 🐛 29 | 🌐 JavaScript | 📅 2026-01-31
 * [**JavaScript**: *Building React From Scratch*](https://www.youtube.com/watch?v=_MAD4Oly9yg) \[video]
 * [**JavaScript**: *Gooact: React in 160 lines of JavaScript*](https://medium.com/@sweetpalma/gooact-react-in-160-lines-of-javascript-44e0742ad60f)
 * [**JavaScript**: *Learn how React Reconciler package works by building your own lightweight React DOM*](https://hackernoon.com/learn-you-some-custom-react-renderers-aed7164a4199)
@@ -277,7 +277,7 @@ It's a great way to learn.
 
 #### Build your own `Operating System`
 
-* [**C**: *How to create an OS from scratch*](https://github.com/cfenollosa/os-tutorial) ⭐ 30,655 | 🐛 130 | 🌐 C | 📅 2026-02-04
+* [**C**: *How to create an OS from scratch*](https://github.com/cfenollosa/os-tutorial) ⭐ 30,656 | 🐛 130 | 🌐 C | 📅 2026-02-04
 * [**C**: *Learning operating system development using Linux kernel and Raspberry Pi*](https://github.com/s-matyukevich/raspberry-pi-os) ⭐ 13,910 | 🐛 66 | 🌐 C | 📅 2024-03-29
 * [**C**: *Build a minimal multi-tasking kernel for ARM from scratch*](https://github.com/jserv/mini-arm-os) ⭐ 1,252 | 🐛 2 | 🌐 C | 📅 2025-12-14
 * [**Assembly**: *Writing a Tiny x86 Bootloader*](http://joebergeron.io/posts/post_two.html)
@@ -309,15 +309,15 @@ It's a great way to learn.
 
 #### Build your own `Processor`
 
-* [**Verilog**: *From Blinker to RISC-V*](https://github.com/BrunoLevy/learn-fpga/tree/master/FemtoRV/TUTORIALS/FROM_BLINKER_TO_RISCV) ⭐ 3,642 | 🐛 57 | 🌐 C++ | 📅 2025-11-18
+* [**Verilog**: *From Blinker to RISC-V*](https://github.com/BrunoLevy/learn-fpga/tree/master/FemtoRV/TUTORIALS/FROM_BLINKER_TO_RISCV) ⭐ 3,644 | 🐛 58 | 🌐 C++ | 📅 2025-11-18
 
 #### Build your own `Programming Language`
 
 * [**JavaScript**: *The Super Tiny Compiler*](https://github.com/jamiebuilds/the-super-tiny-compiler) ⭐ 28,559 | 🐛 16 | 🌐 JavaScript | 📅 2024-02-19
-* [**C**: *A journey explaining how to build a compiler from scratch*](https://github.com/DoctorWkt/acwj) ⭐ 13,376 | 🐛 25 | 🌐 C | 📅 2026-06-06
-* [**(any)**: *mal - Make a Lisp*](https://github.com/kanaka/mal#mal---make-a-lisp) ⭐ 10,713 | 🐛 47 | 🌐 Assembly | 📅 2025-10-22
+* [**C**: *A journey explaining how to build a compiler from scratch*](https://github.com/DoctorWkt/acwj) ⭐ 13,377 | 🐛 25 | 🌐 C | 📅 2026-06-06
+* [**(any)**: *mal - Make a Lisp*](https://github.com/kanaka/mal#mal---make-a-lisp) ⭐ 10,714 | 🐛 47 | 🌐 Assembly | 📅 2025-10-22
 * [**C**: *C interpreter that interprets itself.*](https://github.com/lotabout/write-a-C-interpreter) ⭐ 4,393 | 🐛 11 | 🌐 C | 📅 2025-11-22
-* [**Assembly**: *Jonesforth*](https://github.com/nornagon/jonesforth/blob/master/jonesforth.S) ⭐ 1,122 | 🐛 5 | 🌐 Assembly | 📅 2023-04-04
+* [**Assembly**: *Jonesforth*](https://github.com/nornagon/jonesforth/blob/master/jonesforth.S) ⭐ 1,124 | 🐛 5 | 🌐 Assembly | 📅 2023-04-04
 * [**Go**: *The Super Tiny Compiler*](https://github.com/hazbo/the-super-tiny-compiler) ⭐ 684 | 🐛 1 | 🌐 Go | 📅 2021-12-02
 * [**C**: *A C & x86 version of the "Let's Build a Compiler" by Jack Crenshaw*](https://github.com/lotabout/Let-s-build-a-compiler) ⭐ 581 | 🐛 0 | 🌐 C | 📅 2018-10-19
 * [**JavaScript**: *The Super Tiny Interpreter*](https://github.com/keyanzhang/the-super-tiny-interpreter) ⭐ 181 | 🐛 0 | 🌐 JavaScript | 📅 2016-08-03
@@ -378,7 +378,7 @@ It's a great way to learn.
 
 #### Build your own `Shell`
 
-* [**C**: *Let's build a shell!*](https://github.com/kamalmarhubi/shell-workshop) ⭐ 705 | 🐛 3 | 🌐 C | 📅 2021-07-28
+* [**C**: *Let's build a shell!*](https://github.com/kamalmarhubi/shell-workshop) ⭐ 706 | 🐛 3 | 🌐 C | 📅 2021-07-28
 * [**C**: *Build Your Own Shell*](https://github.com/tokenrove/build-your-own-shell) ⭐ 505 | 🐛 7 | 🌐 Tcl | 📅 2024-02-28
 * [**C**: *Tutorial - Write a Shell in C*](https://brennan.io/2015/01/16/write-a-shell-in-c/)
 * [**C**: *Writing a UNIX Shell*](https://indradhanush.github.io/blog/writing-a-unix-shell-part-1/)
@@ -433,10 +433,10 @@ It's a great way to learn.
 
 #### Uncategorized
 
-* [**JavaScript**: *JavaScript Algorithms and Data Structures*](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,467 | 🐛 403 | 🌐 JavaScript | 📅 2026-07-26
+* [**JavaScript**: *JavaScript Algorithms and Data Structures*](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,496 | 🐛 404 | 🌐 JavaScript | 📅 2026-07-26
 * [**C++**: *Build your own VR headset for $200*](https://github.com/relativty/Relativ) ⭐ 7,230 | 🐛 31 | 🌐 C++ | 📅 2024-07-21
-* [**Rust**: *Building a DNS server in Rust*](https://github.com/EmilHernvall/dnsguide/blob/master/README.md) ⭐ 4,660 | 🐛 6 | 📅 2025-04-28
-* [**C**: *Learn how to write a hash table in C*](https://github.com/jamesroutley/write-a-hash-table) ⭐ 4,369 | 🐛 27 | 📅 2023-12-16
+* [**Rust**: *Building a DNS server in Rust*](https://github.com/EmilHernvall/dnsguide/blob/master/README.md) ⭐ 4,659 | 🐛 6 | 📅 2025-04-28
+* [**C**: *Learn how to write a hash table in C*](https://github.com/jamesroutley/write-a-hash-table) ⭐ 4,368 | 🐛 27 | 📅 2023-12-16
 * [**Lua**: *Building a CDN from Scratch to Learn about CDN*](https://github.com/leandromoreira/cdn-up-and-running) ⭐ 3,687 | 🐛 2 | 🌐 Lua | 📅 2026-01-21
 * [**JavaScript**: *Build Your Own Module Bundler - Minipack*](https://github.com/ronami/minipack) ⭐ 3,299 | 🐛 12 | 🌐 JavaScript | 📅 2021-02-14
 * [**TypeScript**: *Tiny Package Manager: Learns how npm or Yarn works*](https://github.com/g-plane/tiny-package-manager) ⭐ 472 | 🐛 0 | 🌐 TypeScript | 📅 2024-11-29
@@ -498,15 +498,15 @@ It's a great way to learn.
 
 ## Contribute
 
-* Submissions welcome, just send a PR, or [create an issue](https://github.com/codecrafters-io/build-your-own-x/issues/new) ⭐ 540,040 | 🐛 629 | 🌐 Markdown | 📅 2026-07-14
-* Help us review [pending submissions](https://github.com/codecrafters-io/build-your-own-x/issues) ⭐ 540,040 | 🐛 629 | 🌐 Markdown | 📅 2026-07-14 by leaving comments and "reactions"
+* Submissions welcome, just send a PR, or [create an issue](https://github.com/codecrafters-io/build-your-own-x/issues/new) ⭐ 540,306 | 🐛 630 | 🌐 Markdown | 📅 2026-07-14
+* Help us review [pending submissions](https://github.com/codecrafters-io/build-your-own-x/issues) ⭐ 540,306 | 🐛 630 | 🌐 Markdown | 📅 2026-07-14 by leaving comments and "reactions"
 
 ## Origins & License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-This repository is the work of [many contributors](https://github.com/codecrafters-io/build-your-own-x/graphs/contributors) ⭐ 540,040 | 🐛 629 | 🌐 Markdown | 📅 2026-07-14. It was started by [Daniel Stefanovic](https://github.com/danistefanovic), and is now maintained by [CodeCrafters, Inc.](https://codecrafters.io) To the extent possible under law, [CodeCrafters, Inc.](https://codecrafters.io) has waived all copyright and related or neighboring rights to this work.
+This repository is the work of [many contributors](https://github.com/codecrafters-io/build-your-own-x/graphs/contributors) ⭐ 540,306 | 🐛 630 | 🌐 Markdown | 📅 2026-07-14. It was started by [Daniel Stefanovic](https://github.com/danistefanovic), and is now maintained by [CodeCrafters, Inc.](https://codecrafters.io) To the extent possible under law, [CodeCrafters, Inc.](https://codecrafters.io) has waived all copyright and related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
