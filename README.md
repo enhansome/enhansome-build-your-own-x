@@ -45,12 +45,12 @@ It's a great way to learn.
 
 #### Build your own `Distributed Systems`
 
-* [**Java**: *Building Your Own Kafka-like System From Scratch: A Step-by-Step Guide*](https://github.com/buildthingsuseful/build-your-own-kafka) ⭐ 114 | 🐛 1 | 🌐 Java | 📅 2025-03-13
+* [**Java**: *Building Your Own Kafka-like System From Scratch: A Step-by-Step Guide*](https://github.com/buildthingsuseful/build-your-own-kafka) ⭐ 115 | 🐛 1 | 🌐 Java | 📅 2025-03-13
 
 #### Build your own `3D Renderer`
 
 * [**C++**: *Introduction to Ray Tracing: a Simple Method for Creating 3D Images*](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing/how-does-it-work)
-* [**C++**: *How OpenGL works: software rendering in 500 lines of code*](https://github.com/ssloy/tinyrenderer/wiki) ⭐ 24,111 | 🐛 4 | 🌐 C++ | 📅 2026-07-29
+* [**C++**: *How OpenGL works: software rendering in 500 lines of code*](https://github.com/ssloy/tinyrenderer/wiki) ⭐ 24,113 | 🐛 4 | 🌐 C++ | 📅 2026-07-29
 * [**C++**: *Raycasting engine of Wolfenstein 3D*](http://lodev.org/cgtutor/raycasting.html)
 * [**C++**: *Physically Based Rendering:From Theory To Implementation*](http://www.pbr-book.org/)
 * [**C++**: *Ray Tracing in One Weekend*](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
@@ -63,8 +63,8 @@ It's a great way to learn.
 
 #### Build your own `AI Model`
 
-* [**Python**: *A Large Language Model (LLM)*](https://github.com/rasbt/LLMs-from-scratch) ⭐ 102,992 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-08-10
-* [**Python**: *RAG for Document Search*](https://github.com/langchain-ai/rag-from-scratch) ⭐ 9,149 | 🐛 38 | 🌐 Jupyter Notebook | 📅 2025-06-26
+* [**Python**: *A Large Language Model (LLM)*](https://github.com/rasbt/LLMs-from-scratch) ⭐ 103,047 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-08-10
+* [**Python**: *RAG for Document Search*](https://github.com/langchain-ai/rag-from-scratch) ⭐ 9,150 | 🐛 38 | 🌐 Jupyter Notebook | 📅 2025-06-26
 * [**Python**: *Diffusion Models for Image Generation*](https://huggingface.co/learn/diffusion-course/en/unit1/3)
 
 #### Build your own `Augmented Reality`
@@ -156,7 +156,7 @@ It's a great way to learn.
 
 #### Build your own `Docker`
 
-* [**Shell**: *Docker implemented in around 100 lines of bash*](https://github.com/p8952/bocker) ⭐ 12,663 | 🐛 15 | 🌐 Shell | 📅 2017-12-09
+* [**Shell**: *Docker implemented in around 100 lines of bash*](https://github.com/p8952/bocker) ⭐ 12,664 | 🐛 15 | 🌐 Shell | 📅 2017-12-09
 * [**Python**: *A workshop on Linux containers: Rebuild Docker from Scratch*](https://github.com/Fewbytes/rubber-docker) ⭐ 3,246 | 🐛 20 | 🌐 Python | 📅 2024-07-28
 * [**Python**: *A proof-of-concept imitation of Docker, written in 100% Python*](https://github.com/tonybaloney/mocker) ⭐ 954 | 🐛 0 | 🌐 Python | 📅 2021-07-01
 * [**C**: *Linux containers in 500 lines of code*](https://blog.lizzie.io/linux-containers-in-500-loc.html)
@@ -257,8 +257,8 @@ It's a great way to learn.
 
 #### Build your own `Neural Network`
 
-* [**Python**: *Build Deep Learning From Scratch (reimplement PyTorch internals across 34 stages)*](https://github.com/roiamiel1/Build-Deep-Learning-From-Scratch) ⭐ 41 | 🐛 0 | 🌐 Python | 📅 2026-07-11
-* [**Python**: *SlowTorch: Implementation of PyTorch from the ground up in 100% pure Python*](https://github.com/xames3/slowtorch) ⭐ 26 | 🐛 4 | 🌐 Python | 📅 2025-11-07
+* [**Python**: *Build Deep Learning From Scratch (reimplement PyTorch internals across 34 stages)*](https://github.com/roiamiel1/Build-Deep-Learning-From-Scratch) ⭐ 42 | 🐛 0 | 🌐 Python | 📅 2026-07-11
+* [**Python**: *SlowTorch: Implementation of PyTorch from the ground up in 100% pure Python*](https://github.com/xames3/slowtorch) ⭐ 25 | 🐛 4 | 🌐 Python | 📅 2025-11-07
 * [**C#**: *Neural Network OCR*](https://www.codeproject.com/Articles/11285/Neural-Network-OCR)
 * [**F#**: *Building Neural Networks in F#: Part 1*](https://medium.com/data-science/building-neural-networks-in-f-part-1-a2832ae972e6)
 * [**F#**: *Building Neural Networks in F#: Part 2*](https://medium.com/data-science/building-neural-networks-in-f-part-2-training-evaluation-5e3a68889da6)
@@ -313,9 +313,9 @@ It's a great way to learn.
 
 #### Build your own `Programming Language`
 
-* [**JavaScript**: *The Super Tiny Compiler*](https://github.com/jamiebuilds/the-super-tiny-compiler) ⭐ 28,558 | 🐛 16 | 🌐 JavaScript | 📅 2024-02-19
-* [**C**: *A journey explaining how to build a compiler from scratch*](https://github.com/DoctorWkt/acwj) ⭐ 13,379 | 🐛 25 | 🌐 C | 📅 2026-06-06
-* [**(any)**: *mal - Make a Lisp*](https://github.com/kanaka/mal#mal---make-a-lisp) ⭐ 10,715 | 🐛 47 | 🌐 Assembly | 📅 2025-10-22
+* [**JavaScript**: *The Super Tiny Compiler*](https://github.com/jamiebuilds/the-super-tiny-compiler) ⭐ 28,559 | 🐛 16 | 🌐 JavaScript | 📅 2024-02-19
+* [**C**: *A journey explaining how to build a compiler from scratch*](https://github.com/DoctorWkt/acwj) ⭐ 13,381 | 🐛 25 | 🌐 C | 📅 2026-06-06
+* [**(any)**: *mal - Make a Lisp*](https://github.com/kanaka/mal#mal---make-a-lisp) ⭐ 10,716 | 🐛 47 | 🌐 Assembly | 📅 2025-10-22
 * [**C**: *C interpreter that interprets itself.*](https://github.com/lotabout/write-a-C-interpreter) ⭐ 4,395 | 🐛 11 | 🌐 C | 📅 2025-11-22
 * [**Assembly**: *Jonesforth*](https://github.com/nornagon/jonesforth/blob/master/jonesforth.S) ⭐ 1,125 | 🐛 5 | 🌐 Assembly | 📅 2023-04-04
 * [**Go**: *The Super Tiny Compiler*](https://github.com/hazbo/the-super-tiny-compiler) ⭐ 684 | 🐛 1 | 🌐 Go | 📅 2021-12-02
@@ -433,7 +433,7 @@ It's a great way to learn.
 
 #### Uncategorized
 
-* [**JavaScript**: *JavaScript Algorithms and Data Structures*](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,522 | 🐛 405 | 🌐 JavaScript | 📅 2026-07-26
+* [**JavaScript**: *JavaScript Algorithms and Data Structures*](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,528 | 🐛 405 | 🌐 JavaScript | 📅 2026-07-26
 * [**C++**: *Build your own VR headset for $200*](https://github.com/relativty/Relativ) ⭐ 7,232 | 🐛 31 | 🌐 C++ | 📅 2024-07-21
 * [**Rust**: *Building a DNS server in Rust*](https://github.com/EmilHernvall/dnsguide/blob/master/README.md) ⭐ 4,662 | 🐛 6 | 📅 2025-04-28
 * [**C**: *Learn how to write a hash table in C*](https://github.com/jamesroutley/write-a-hash-table) ⭐ 4,371 | 🐛 27 | 📅 2023-12-16
@@ -443,7 +443,7 @@ It's a great way to learn.
 * [**Go**: *Video Encoding from Scratch*](https://github.com/kevmo314/codec-from-scratch) ⭐ 464 | 🐛 1 | 🌐 Go | 📅 2025-03-07
 * [**Kotlin**: *Build Your Own Cache*](https://github.com/kezhenxu94/cache-lite) ⭐ 167 | 🐛 1 | 📅 2021-04-27
 * [**Python**: *JSON Decoding Algorithm*](https://github.com/cheery/json-algorithm) ⭐ 117 | 🐛 0 | 🌐 Python | 📅 2016-08-28
-* [**(any)**:  build-your-own-x-vibe-coding: BYOX-style tutorials adapted for vibe coding](https://github.com/inFaaa/build-your-own-x-vibe-coding) ⭐ 96 | 🐛 0 | 🌐 Python | 📅 2025-09-05
+* [**(any)**:  build-your-own-x-vibe-coding: BYOX-style tutorials adapted for vibe coding](https://github.com/inFaaa/build-your-own-x-vibe-coding) ⭐ 97 | 🐛 0 | 🌐 Python | 📅 2025-09-05
 * [**(any)**: *From NAND to Tetris: Building a Modern Computer From First Principles*](http://nand2tetris.org/)
 * [**Alloy**: *The Same-Origin Policy*](http://aosabook.org/en/500L/the-same-origin-policy.html)
 * [**C**: *How to Write a Video Player in Less Than 1000 Lines*](http://dranger.com/ffmpeg/ffmpeg.html)
@@ -498,15 +498,15 @@ It's a great way to learn.
 
 ## Contribute
 
-* Submissions welcome, just send a PR, or [create an issue](https://github.com/codecrafters-io/build-your-own-x/issues/new) ⭐ 541,123 | 🐛 634 | 🌐 Markdown | 📅 2026-07-14
-* Help us review [pending submissions](https://github.com/codecrafters-io/build-your-own-x/issues) ⭐ 541,123 | 🐛 634 | 🌐 Markdown | 📅 2026-07-14 by leaving comments and "reactions"
+* Submissions welcome, just send a PR, or [create an issue](https://github.com/codecrafters-io/build-your-own-x/issues/new) ⭐ 541,354 | 🐛 635 | 🌐 Markdown | 📅 2026-07-14
+* Help us review [pending submissions](https://github.com/codecrafters-io/build-your-own-x/issues) ⭐ 541,354 | 🐛 635 | 🌐 Markdown | 📅 2026-07-14 by leaving comments and "reactions"
 
 ## Origins & License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-This repository is the work of [many contributors](https://github.com/codecrafters-io/build-your-own-x/graphs/contributors) ⭐ 541,123 | 🐛 634 | 🌐 Markdown | 📅 2026-07-14. It was started by [Daniel Stefanovic](https://github.com/danistefanovic), and is now maintained by [CodeCrafters, Inc.](https://codecrafters.io) To the extent possible under law, [CodeCrafters, Inc.](https://codecrafters.io) has waived all copyright and related or neighboring rights to this work.
+This repository is the work of [many contributors](https://github.com/codecrafters-io/build-your-own-x/graphs/contributors) ⭐ 541,354 | 🐛 635 | 🌐 Markdown | 📅 2026-07-14. It was started by [Daniel Stefanovic](https://github.com/danistefanovic), and is now maintained by [CodeCrafters, Inc.](https://codecrafters.io) To the extent possible under law, [CodeCrafters, Inc.](https://codecrafters.io) has waived all copyright and related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._

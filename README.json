@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-10T01:11:40Z",
                 "owner": "rasbt",
                 "repo": "LLMs-from-scratch",
-                "stars": 102992
+                "stars": 103047
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2025-06-26T03:16:10Z",
                 "owner": "langchain-ai",
                 "repo": "rag-from-scratch",
-                "stars": 9149
+                "stars": 9150
               }
             }
           ],
@@ -121,7 +121,7 @@
                 "last_commit": "2017-12-09T14:16:38Z",
                 "owner": "p8952",
                 "repo": "bocker",
-                "stars": 12663
+                "stars": 12664
               }
             },
             {
@@ -173,7 +173,7 @@
                 "last_commit": "2026-07-11T10:11:05Z",
                 "owner": "roiamiel1",
                 "repo": "Build-Deep-Learning-From-Scratch",
-                "stars": 41
+                "stars": 42
               }
             },
             {
@@ -188,7 +188,7 @@
                 "last_commit": "2025-11-07T05:23:45Z",
                 "owner": "xames3",
                 "repo": "slowtorch",
-                "stars": 26
+                "stars": 25
               }
             }
           ],
@@ -262,7 +262,7 @@
                 "last_commit": "2024-02-19T12:33:21Z",
                 "owner": "jamiebuilds",
                 "repo": "the-super-tiny-compiler",
-                "stars": 28558
+                "stars": 28559
               }
             },
             {
@@ -277,7 +277,7 @@
                 "last_commit": "2026-06-06T21:17:51Z",
                 "owner": "DoctorWkt",
                 "repo": "acwj",
-                "stars": 13379
+                "stars": 13381
               }
             },
             {
@@ -292,7 +292,7 @@
                 "last_commit": "2025-10-22T16:42:57Z",
                 "owner": "kanaka",
                 "repo": "mal",
-                "stars": 10715
+                "stars": 10716
               }
             },
             {
@@ -426,7 +426,7 @@
                 "last_commit": "2026-07-26T02:43:08Z",
                 "owner": "trekhleb",
                 "repo": "javascript-algorithms",
-                "stars": 196522
+                "stars": 196528
               }
             },
             {
@@ -576,7 +576,7 @@
                 "last_commit": "2025-09-05T07:44:07Z",
                 "owner": "inFaaa",
                 "repo": "build-your-own-x-vibe-coding",
-                "stars": 96
+                "stars": 97
               }
             }
           ],
@@ -602,7 +602,7 @@
             "last_commit": "2026-07-14T19:25:58Z",
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 541123
+            "stars": 541354
           }
         },
         {
@@ -617,7 +617,7 @@
             "last_commit": "2026-07-14T19:25:58Z",
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 541123
+            "stars": 541354
           }
         }
       ],
@@ -625,7 +625,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:18:26.106Z",
+    "last_updated": "2026-08-20T04:21:51.014Z",
     "original_repository": "codecrafters-io/build-your-own-x",
     "original_repository_id": 132750724,
     "original_repository_sha": "aa17439b62f384511a5561ce308e9598b94d8989",
