@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-10T01:11:40Z",
                 "owner": "rasbt",
                 "repo": "LLMs-from-scratch",
-                "stars": 103047
+                "stars": 103132
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2025-06-26T03:16:10Z",
                 "owner": "langchain-ai",
                 "repo": "rag-from-scratch",
-                "stars": 9150
+                "stars": 9165
               }
             }
           ],
@@ -151,7 +151,7 @@
                 "last_commit": "2021-07-01T06:48:38Z",
                 "owner": "tonybaloney",
                 "repo": "mocker",
-                "stars": 954
+                "stars": 953
               }
             }
           ],
@@ -210,7 +210,7 @@
                 "last_commit": "2026-02-04T09:33:56Z",
                 "owner": "cfenollosa",
                 "repo": "os-tutorial",
-                "stars": 30658
+                "stars": 30654
               }
             },
             {
@@ -225,7 +225,7 @@
                 "last_commit": "2024-03-29T21:19:52Z",
                 "owner": "s-matyukevich",
                 "repo": "raspberry-pi-os",
-                "stars": 13912
+                "stars": 13910
               }
             },
             {
@@ -262,7 +262,7 @@
                 "last_commit": "2024-02-19T12:33:21Z",
                 "owner": "jamiebuilds",
                 "repo": "the-super-tiny-compiler",
-                "stars": 28559
+                "stars": 28558
               }
             },
             {
@@ -277,7 +277,7 @@
                 "last_commit": "2026-06-06T21:17:51Z",
                 "owner": "DoctorWkt",
                 "repo": "acwj",
-                "stars": 13381
+                "stars": 13380
               }
             },
             {
@@ -292,7 +292,7 @@
                 "last_commit": "2025-10-22T16:42:57Z",
                 "owner": "kanaka",
                 "repo": "mal",
-                "stars": 10716
+                "stars": 10717
               }
             },
             {
@@ -389,7 +389,7 @@
                 "last_commit": "2021-07-28T00:47:41Z",
                 "owner": "kamalmarhubi",
                 "repo": "shell-workshop",
-                "stars": 706
+                "stars": 707
               }
             },
             {
@@ -404,7 +404,7 @@
                 "last_commit": "2024-02-28T16:53:34Z",
                 "owner": "tokenrove",
                 "repo": "build-your-own-shell",
-                "stars": 505
+                "stars": 506
               }
             }
           ],
@@ -426,7 +426,7 @@
                 "last_commit": "2026-07-26T02:43:08Z",
                 "owner": "trekhleb",
                 "repo": "javascript-algorithms",
-                "stars": 196528
+                "stars": 196522
               }
             },
             {
@@ -441,7 +441,7 @@
                 "last_commit": "2024-07-21T16:01:36Z",
                 "owner": "relativty",
                 "repo": "Relativty",
-                "stars": 7232
+                "stars": 7233
               }
             },
             {
@@ -456,7 +456,7 @@
                 "last_commit": "2025-04-28T10:33:26Z",
                 "owner": "EmilHernvall",
                 "repo": "dnsguide",
-                "stars": 4662
+                "stars": 4661
               }
             },
             {
@@ -471,7 +471,7 @@
                 "last_commit": "2023-12-16T14:30:33Z",
                 "owner": "jamesroutley",
                 "repo": "write-a-hash-table",
-                "stars": 4371
+                "stars": 4372
               }
             },
             {
@@ -602,7 +602,7 @@
             "last_commit": "2026-07-14T19:25:58Z",
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 541354
+            "stars": 541652
           }
         },
         {
@@ -617,7 +617,7 @@
             "last_commit": "2026-07-14T19:25:58Z",
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 541354
+            "stars": 541652
           }
         }
       ],
@@ -625,7 +625,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T04:21:51.014Z",
+    "last_updated": "2026-08-21T04:23:59.246Z",
     "original_repository": "codecrafters-io/build-your-own-x",
     "original_repository_id": 132750724,
     "original_repository_sha": "aa17439b62f384511a5561ce308e9598b94d8989",
