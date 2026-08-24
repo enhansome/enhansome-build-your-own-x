@@ -7,6 +7,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Java: Building Your Own Kafka-like System From Scratch: A Step-by-Step Guide",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 947618604,
+                "language": "Java",
+                "last_commit": "2025-03-13T06:03:22Z",
+                "owner": "buildthingsuseful",
+                "repo": "build-your-own-kafka",
+                "stars": 117
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Build your own"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "C++: How OpenGL works: software rendering in 500 lines of code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29397594,
+                "language": "C++",
+                "last_commit": "2026-07-29T12:13:12Z",
+                "owner": "ssloy",
+                "repo": "tinyrenderer",
+                "stars": 24141
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Build your own"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Python: A Large Language Model (LLM)",
               "description": null,
               "children": [],
@@ -17,7 +61,7 @@
                 "last_commit": "2026-08-10T01:11:40Z",
                 "owner": "rasbt",
                 "repo": "LLMs-from-scratch",
-                "stars": 103584
+                "stars": 103640
               }
             },
             {
@@ -32,7 +76,7 @@
                 "last_commit": "2025-06-26T03:16:10Z",
                 "owner": "langchain-ai",
                 "repo": "rag-from-scratch",
-                "stars": 9183
+                "stars": 9188
               }
             }
           ],
@@ -136,7 +180,7 @@
                 "last_commit": "2024-07-28T14:28:42Z",
                 "owner": "Fewbytes",
                 "repo": "rubber-docker",
-                "stars": 3247
+                "stars": 3248
               }
             },
             {
@@ -151,7 +195,73 @@
                 "last_commit": "2021-07-01T06:48:38Z",
                 "owner": "tonybaloney",
                 "repo": "mocker",
-                "stars": 955
+                "stars": 956
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Build your own"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "JavaScript: A DIY guide to build your own React",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 87960853,
+                "language": "JavaScript",
+                "last_commit": "2026-01-31T14:12:18Z",
+                "owner": "pomber",
+                "repo": "didact",
+                "stars": 6766
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Build your own"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Lua: BYTEPATH",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 40476783,
+                "language": null,
+                "last_commit": "2021-03-08T10:53:05Z",
+                "owner": "a327ex",
+                "repo": "blog",
+                "stars": 3320
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Build your own"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "C / Python: Build your own VPN/Virtual Switch",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 637969743,
+                "language": "C",
+                "last_commit": "2024-02-20T09:24:46Z",
+                "owner": "peiyuanix",
+                "repo": "build-your-own-zerotier",
+                "stars": 629
               }
             }
           ],
@@ -173,7 +283,7 @@
                 "last_commit": "2026-07-11T10:11:05Z",
                 "owner": "roiamiel1",
                 "repo": "Build-Deep-Learning-From-Scratch",
-                "stars": 42
+                "stars": 43
               }
             },
             {
@@ -210,7 +320,7 @@
                 "last_commit": "2026-02-04T09:33:56Z",
                 "owner": "cfenollosa",
                 "repo": "os-tutorial",
-                "stars": 30661
+                "stars": 30662
               }
             },
             {
@@ -252,6 +362,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Verilog: From Blinker to RISC-V",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 267350664,
+                "language": "C++",
+                "last_commit": "2025-11-18T13:48:23Z",
+                "owner": "BrunoLevy",
+                "repo": "learn-fpga",
+                "stars": 3646
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Build your own"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "JavaScript: The Super Tiny Compiler",
               "description": null,
               "children": [],
@@ -277,7 +409,7 @@
                 "last_commit": "2026-06-06T21:17:51Z",
                 "owner": "DoctorWkt",
                 "repo": "acwj",
-                "stars": 13384
+                "stars": 13385
               }
             },
             {
@@ -292,7 +424,7 @@
                 "last_commit": "2025-10-22T16:42:57Z",
                 "owner": "kanaka",
                 "repo": "mal",
-                "stars": 10720
+                "stars": 10719
               }
             },
             {
@@ -322,7 +454,7 @@
                 "last_commit": "2023-04-04T16:56:38Z",
                 "owner": "nornagon",
                 "repo": "jonesforth",
-                "stars": 1127
+                "stars": 1128
               }
             },
             {
@@ -416,6 +548,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Node.js: lets-build-express",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 137042774,
+                "language": "JavaScript",
+                "last_commit": "2024-12-06T05:55:31Z",
+                "owner": "antsmartian",
+                "repo": "lets-build-express",
+                "stars": 1062
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Build your own"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "JavaScript: JavaScript Algorithms and Data Structures",
               "description": null,
               "children": [],
@@ -426,7 +580,7 @@
                 "last_commit": "2026-07-26T02:43:08Z",
                 "owner": "trekhleb",
                 "repo": "javascript-algorithms",
-                "stars": 196545
+                "stars": 196546
               }
             },
             {
@@ -602,7 +756,7 @@
             "last_commit": "2026-07-14T19:25:58Z",
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 542401
+            "stars": 542526
           }
         },
         {
@@ -617,7 +771,7 @@
             "last_commit": "2026-07-14T19:25:58Z",
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 542401
+            "stars": 542526
           }
         }
       ],
@@ -625,7 +779,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:29:31.866Z",
+    "last_updated": "2026-08-24T13:45:40.508Z",
     "original_repository": "codecrafters-io/build-your-own-x",
     "original_repository_id": 132750724,
     "original_repository_sha": "aa17439b62f384511a5561ce308e9598b94d8989",
