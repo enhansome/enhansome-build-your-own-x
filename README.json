@@ -39,7 +39,7 @@
                 "last_commit": "2026-07-29T12:13:12Z",
                 "owner": "ssloy",
                 "repo": "tinyrenderer",
-                "stars": 24141
+                "stars": 24140
               }
             }
           ],
@@ -58,10 +58,10 @@
                 "archived": false,
                 "id": 669879380,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-10T01:11:40Z",
+                "last_commit": "2026-08-24T13:50:37Z",
                 "owner": "rasbt",
                 "repo": "LLMs-from-scratch",
-                "stars": 103640
+                "stars": 103700
               }
             },
             {
@@ -76,7 +76,7 @@
                 "last_commit": "2025-06-26T03:16:10Z",
                 "owner": "langchain-ai",
                 "repo": "rag-from-scratch",
-                "stars": 9188
+                "stars": 9194
               }
             }
           ],
@@ -165,7 +165,7 @@
                 "last_commit": "2017-12-09T14:16:38Z",
                 "owner": "p8952",
                 "repo": "bocker",
-                "stars": 12664
+                "stars": 12666
               }
             },
             {
@@ -217,7 +217,7 @@
                 "last_commit": "2026-01-31T14:12:18Z",
                 "owner": "pomber",
                 "repo": "didact",
-                "stars": 6766
+                "stars": 6764
               }
             }
           ],
@@ -320,7 +320,7 @@
                 "last_commit": "2026-02-04T09:33:56Z",
                 "owner": "cfenollosa",
                 "repo": "os-tutorial",
-                "stars": 30662
+                "stars": 30663
               }
             },
             {
@@ -335,7 +335,7 @@
                 "last_commit": "2024-03-29T21:19:52Z",
                 "owner": "s-matyukevich",
                 "repo": "raspberry-pi-os",
-                "stars": 13913
+                "stars": 13914
               }
             },
             {
@@ -372,7 +372,7 @@
                 "last_commit": "2025-11-18T13:48:23Z",
                 "owner": "BrunoLevy",
                 "repo": "learn-fpga",
-                "stars": 3646
+                "stars": 3647
               }
             }
           ],
@@ -424,7 +424,7 @@
                 "last_commit": "2025-10-22T16:42:57Z",
                 "owner": "kanaka",
                 "repo": "mal",
-                "stars": 10719
+                "stars": 10721
               }
             },
             {
@@ -580,7 +580,7 @@
                 "last_commit": "2026-07-26T02:43:08Z",
                 "owner": "trekhleb",
                 "repo": "javascript-algorithms",
-                "stars": 196546
+                "stars": 196549
               }
             },
             {
@@ -730,7 +730,7 @@
                 "last_commit": "2025-09-05T07:44:07Z",
                 "owner": "inFaaa",
                 "repo": "build-your-own-x-vibe-coding",
-                "stars": 97
+                "stars": 98
               }
             }
           ],
@@ -756,7 +756,7 @@
             "last_commit": "2026-07-14T19:25:58Z",
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 542526
+            "stars": 542698
           }
         },
         {
@@ -771,7 +771,7 @@
             "last_commit": "2026-07-14T19:25:58Z",
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 542526
+            "stars": 542698
           }
         }
       ],
@@ -779,7 +779,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:45:40.508Z",
+    "last_updated": "2026-08-25T04:23:38.343Z",
     "original_repository": "codecrafters-io/build-your-own-x",
     "original_repository_id": 132750724,
     "original_repository_sha": "aa17439b62f384511a5561ce308e9598b94d8989",
