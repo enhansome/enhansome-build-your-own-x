@@ -63,7 +63,7 @@ It's a great way to learn.
 
 #### Build your own `AI Model`
 
-* [**Python**: *A Large Language Model (LLM)*](https://github.com/rasbt/LLMs-from-scratch) ⭐ 103,700 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-08-24
+* [**Python**: *A Large Language Model (LLM)*](https://github.com/rasbt/LLMs-from-scratch) ⭐ 103,708 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-08-24
 * [**Python**: *RAG for Document Search*](https://github.com/langchain-ai/rag-from-scratch) ⭐ 9,194 | 🐛 39 | 🌐 Jupyter Notebook | 📅 2025-06-26
 * [**Python**: *Diffusion Models for Image Generation*](https://huggingface.co/learn/diffusion-course/en/unit1/3)
 
@@ -309,7 +309,7 @@ It's a great way to learn.
 
 #### Build your own `Processor`
 
-* [**Verilog**: *From Blinker to RISC-V*](https://github.com/BrunoLevy/learn-fpga/tree/master/FemtoRV/TUTORIALS/FROM_BLINKER_TO_RISCV) ⭐ 3,647 | 🐛 58 | 🌐 C++ | 📅 2025-11-18
+* [**Verilog**: *From Blinker to RISC-V*](https://github.com/BrunoLevy/learn-fpga/tree/master/FemtoRV/TUTORIALS/FROM_BLINKER_TO_RISCV) ⭐ 3,646 | 🐛 58 | 🌐 C++ | 📅 2025-11-18
 
 #### Build your own `Programming Language`
 
@@ -498,14 +498,14 @@ It's a great way to learn.
 
 ## Contribute
 
-* Submissions welcome, just send a PR, or [create an issue](https://github.com/codecrafters-io/build-your-own-x/issues/new) ⭐ 542,698 | 🐛 639 | 🌐 Markdown | 📅 2026-07-14
-* Help us review [pending submissions](https://github.com/codecrafters-io/build-your-own-x/issues) ⭐ 542,698 | 🐛 639 | 🌐 Markdown | 📅 2026-07-14 by leaving comments and "reactions"
+* Submissions welcome, just send a PR, or [create an issue](https://github.com/codecrafters-io/build-your-own-x/issues/new) ⭐ 542,720 | 🐛 639 | 🌐 Markdown | 📅 2026-07-14
+* Help us review [pending submissions](https://github.com/codecrafters-io/build-your-own-x/issues) ⭐ 542,720 | 🐛 639 | 🌐 Markdown | 📅 2026-07-14 by leaving comments and "reactions"
 
 ## Origins & License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-This repository is the work of [many contributors](https://github.com/codecrafters-io/build-your-own-x/graphs/contributors) ⭐ 542,698 | 🐛 639 | 🌐 Markdown | 📅 2026-07-14. It was started by [Daniel Stefanovic](https://github.com/danistefanovic), and is now maintained by [CodeCrafters, Inc.](https://codecrafters.io) To the extent possible under law, [CodeCrafters, Inc.](https://codecrafters.io) has waived all copyright and related or neighboring rights to this work.
+This repository is the work of [many contributors](https://github.com/codecrafters-io/build-your-own-x/graphs/contributors) ⭐ 542,720 | 🐛 639 | 🌐 Markdown | 📅 2026-07-14. It was started by [Daniel Stefanovic](https://github.com/danistefanovic), and is now maintained by [CodeCrafters, Inc.](https://codecrafters.io) To the extent possible under law, [CodeCrafters, Inc.](https://codecrafters.io) has waived all copyright and related or neighboring rights to this work.
 
 ***
 
