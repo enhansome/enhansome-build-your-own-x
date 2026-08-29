@@ -49,7 +49,7 @@
                 "open_issues": 4,
                 "owner": "ssloy",
                 "repo": "tinyrenderer",
-                "stars": 24152,
+                "stars": 24154,
                 "topics": [
                   "3d",
                   "3d-graphics",
@@ -98,7 +98,7 @@
                 "open_issues": 2,
                 "owner": "rasbt",
                 "repo": "LLMs-from-scratch",
-                "stars": 103962,
+                "stars": 103975,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -139,7 +139,7 @@
                 "open_issues": 39,
                 "owner": "langchain-ai",
                 "repo": "rag-from-scratch",
-                "stars": 9209,
+                "stars": 9210,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -415,7 +415,7 @@
                 "open_issues": 4,
                 "owner": "peiyuanix",
                 "repo": "build-your-own-zerotier",
-                "stars": 630,
+                "stars": 631,
                 "topics": [
                   "build-your-own-x",
                   "tailscale",
@@ -504,7 +504,7 @@
                 "open_issues": 130,
                 "owner": "cfenollosa",
                 "repo": "os-tutorial",
-                "stars": 30677,
+                "stars": 30676,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -639,7 +639,7 @@
                 "open_issues": 25,
                 "owner": "DoctorWkt",
                 "repo": "acwj",
-                "stars": 13390,
+                "stars": 13391,
                 "topics": [
                   "c",
                   "compiler",
@@ -665,7 +665,7 @@
                 "open_issues": 53,
                 "owner": "kanaka",
                 "repo": "mal",
-                "stars": 10723,
+                "stars": 10724,
                 "topics": [
                   "bash",
                   "c",
@@ -960,7 +960,7 @@
                 "open_issues": 6,
                 "owner": "EmilHernvall",
                 "repo": "dnsguide",
-                "stars": 4665,
+                "stars": 4664,
                 "topics": [
                   "dns",
                   "dns-server",
@@ -1215,7 +1215,7 @@
             "open_issues": 639,
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 543733,
+            "stars": 543801,
             "topics": [
               "awesome-list",
               "free",
@@ -1243,7 +1243,7 @@
             "open_issues": 639,
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 543733,
+            "stars": 543801,
             "topics": [
               "awesome-list",
               "free",
@@ -1260,7 +1260,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:10:00.182Z",
+    "last_updated": "2026-08-29T10:26:04.637Z",
     "original_repository_info": {
       "archived": false,
       "description": "Master programming by recreating your favorite technologies from scratch.",
@@ -1272,7 +1272,7 @@
       "open_issues": 639,
       "owner": "codecrafters-io",
       "repo": "build-your-own-x",
-      "stars": 543733,
+      "stars": 543801,
       "topics": [
         "awesome-list",
         "free",
