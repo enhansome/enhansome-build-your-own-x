@@ -21,7 +21,7 @@
                 "open_issues": 2,
                 "owner": "buildthingsuseful",
                 "repo": "build-your-own-kafka",
-                "stars": 124,
+                "stars": 127,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -49,7 +49,7 @@
                 "open_issues": 4,
                 "owner": "ssloy",
                 "repo": "tinyrenderer",
-                "stars": 24200,
+                "stars": 24208,
                 "topics": [
                   "3d",
                   "3d-graphics",
@@ -98,7 +98,7 @@
                 "open_issues": 1,
                 "owner": "rasbt",
                 "repo": "LLMs-from-scratch",
-                "stars": 104562,
+                "stars": 104619,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -139,7 +139,7 @@
                 "open_issues": 39,
                 "owner": "langchain-ai",
                 "repo": "rag-from-scratch",
-                "stars": 9270,
+                "stars": 9276,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -167,7 +167,7 @@
                 "open_issues": 2,
                 "owner": "Savjee",
                 "repo": "SavjeeCoin",
-                "stars": 1771,
+                "stars": 1772,
                 "topics": [
                   "blockchain",
                   "cryptography",
@@ -376,7 +376,7 @@
                 "open_issues": 56,
                 "owner": "a327ex",
                 "repo": "blog",
-                "stars": 3319,
+                "stars": 3318,
                 "topics": [
                   "anime",
                   "big5",
@@ -504,7 +504,7 @@
                 "open_issues": 130,
                 "owner": "cfenollosa",
                 "repo": "os-tutorial",
-                "stars": 30696,
+                "stars": 30697,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -525,7 +525,7 @@
                 "open_issues": 66,
                 "owner": "s-matyukevich",
                 "repo": "raspberry-pi-os",
-                "stars": 13928,
+                "stars": 13926,
                 "topics": [
                   "arm",
                   "armv8",
@@ -562,7 +562,7 @@
                 "open_issues": 2,
                 "owner": "jserv",
                 "repo": "mini-arm-os",
-                "stars": 1254,
+                "stars": 1255,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -590,7 +590,7 @@
                 "open_issues": 58,
                 "owner": "BrunoLevy",
                 "repo": "learn-fpga",
-                "stars": 3672,
+                "stars": 3674,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -618,7 +618,7 @@
                 "open_issues": 16,
                 "owner": "jamiebuilds",
                 "repo": "the-super-tiny-compiler",
-                "stars": 28566,
+                "stars": 28563,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -639,7 +639,7 @@
                 "open_issues": 25,
                 "owner": "DoctorWkt",
                 "repo": "acwj",
-                "stars": 13406,
+                "stars": 13407,
                 "topics": [
                   "c",
                   "compiler",
@@ -665,7 +665,7 @@
                 "open_issues": 54,
                 "owner": "kanaka",
                 "repo": "mal",
-                "stars": 10728,
+                "stars": 10727,
                 "topics": [
                   "bash",
                   "c",
@@ -707,7 +707,7 @@
                 "open_issues": 11,
                 "owner": "lotabout",
                 "repo": "write-a-C-interpreter",
-                "stars": 4401,
+                "stars": 4398,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -898,10 +898,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-07-26T02:43:08Z",
-                "open_issues": 403,
+                "open_issues": 404,
                 "owner": "trekhleb",
                 "repo": "javascript-algorithms",
-                "stars": 196657,
+                "stars": 196664,
                 "topics": [
                   "algorithm",
                   "algorithms",
@@ -931,7 +931,7 @@
                 "open_issues": 28,
                 "owner": "relativty",
                 "repo": "Relativty",
-                "stars": 7239,
+                "stars": 7240,
                 "topics": [
                   "diy",
                   "hardware",
@@ -1106,7 +1106,7 @@
                 "open_issues": 1,
                 "owner": "kevmo314",
                 "repo": "codec-from-scratch",
-                "stars": 466,
+                "stars": 465,
                 "topics": [
                   "codec",
                   "go",
@@ -1133,7 +1133,7 @@
                 "open_issues": 1,
                 "owner": "kezhenxu94",
                 "repo": "cache-lite",
-                "stars": 166,
+                "stars": 167,
                 "topics": [
                   "cache",
                   "cache-lite",
@@ -1212,10 +1212,10 @@
             "language": "Markdown",
             "license": null,
             "last_commit": "2026-07-14T19:25:58Z",
-            "open_issues": 640,
+            "open_issues": 641,
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 545924,
+            "stars": 546117,
             "topics": [
               "awesome-list",
               "free",
@@ -1240,10 +1240,10 @@
             "language": "Markdown",
             "license": null,
             "last_commit": "2026-07-14T19:25:58Z",
-            "open_issues": 640,
+            "open_issues": 641,
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 545924,
+            "stars": 546117,
             "topics": [
               "awesome-list",
               "free",
@@ -1260,7 +1260,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T08:20:45.545Z",
+    "last_updated": "2026-09-09T08:23:36.300Z",
     "original_repository_info": {
       "archived": false,
       "description": "Master programming by recreating your favorite technologies from scratch.",
@@ -1269,10 +1269,10 @@
       "language": "Markdown",
       "license": null,
       "last_commit": "2026-07-14T19:25:58Z",
-      "open_issues": 640,
+      "open_issues": 641,
       "owner": "codecrafters-io",
       "repo": "build-your-own-x",
-      "stars": 545924,
+      "stars": 546117,
       "topics": [
         "awesome-list",
         "free",
