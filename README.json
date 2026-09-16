@@ -49,7 +49,7 @@
                 "open_issues": 4,
                 "owner": "ssloy",
                 "repo": "tinyrenderer",
-                "stars": 24235,
+                "stars": 24240,
                 "topics": [
                   "3d",
                   "3d-graphics",
@@ -95,10 +95,10 @@
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-10T20:36:18Z",
-                "open_issues": 2,
+                "open_issues": 1,
                 "owner": "rasbt",
                 "repo": "LLMs-from-scratch",
-                "stars": 104993,
+                "stars": 105058,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -139,7 +139,7 @@
                 "open_issues": 42,
                 "owner": "langchain-ai",
                 "repo": "rag-from-scratch",
-                "stars": 9318,
+                "stars": 9326,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -167,7 +167,7 @@
                 "open_issues": 2,
                 "owner": "Savjee",
                 "repo": "SavjeeCoin",
-                "stars": 1772,
+                "stars": 1771,
                 "topics": [
                   "blockchain",
                   "cryptography",
@@ -219,7 +219,7 @@
                 "open_issues": 2,
                 "owner": "nambrot",
                 "repo": "blockchain-in-js",
-                "stars": 1132,
+                "stars": 1131,
                 "topics": [
                   "bitcoin",
                   "blockchain",
@@ -272,7 +272,7 @@
                 "open_issues": 15,
                 "owner": "p8952",
                 "repo": "bocker",
-                "stars": 12677,
+                "stars": 12678,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -415,7 +415,7 @@
                 "open_issues": 4,
                 "owner": "peiyuanix",
                 "repo": "build-your-own-zerotier",
-                "stars": 637,
+                "stars": 636,
                 "topics": [
                   "build-your-own-x",
                   "tailscale",
@@ -504,7 +504,7 @@
                 "open_issues": 130,
                 "owner": "cfenollosa",
                 "repo": "os-tutorial",
-                "stars": 30703,
+                "stars": 30706,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -618,7 +618,7 @@
                 "open_issues": 16,
                 "owner": "jamiebuilds",
                 "repo": "the-super-tiny-compiler",
-                "stars": 28562,
+                "stars": 28564,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -665,7 +665,7 @@
                 "open_issues": 55,
                 "owner": "kanaka",
                 "repo": "mal",
-                "stars": 10732,
+                "stars": 10735,
                 "topics": [
                   "bash",
                   "c",
@@ -707,7 +707,7 @@
                 "open_issues": 11,
                 "owner": "lotabout",
                 "repo": "write-a-C-interpreter",
-                "stars": 4401,
+                "stars": 4402,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -728,7 +728,7 @@
                 "open_issues": 5,
                 "owner": "nornagon",
                 "repo": "jonesforth",
-                "stars": 1130,
+                "stars": 1131,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -901,7 +901,7 @@
                 "open_issues": 406,
                 "owner": "trekhleb",
                 "repo": "javascript-algorithms",
-                "stars": 196714,
+                "stars": 196732,
                 "topics": [
                   "algorithm",
                   "algorithms",
@@ -960,7 +960,7 @@
                 "open_issues": 6,
                 "owner": "EmilHernvall",
                 "repo": "dnsguide",
-                "stars": 4666,
+                "stars": 4667,
                 "topics": [
                   "dns",
                   "dns-server",
@@ -989,7 +989,7 @@
                 "open_issues": 27,
                 "owner": "jamesroutley",
                 "repo": "write-a-hash-table",
-                "stars": 4385,
+                "stars": 4387,
                 "topics": [
                   "c",
                   "data-structures",
@@ -1081,7 +1081,7 @@
                 "open_issues": 0,
                 "owner": "g-plane",
                 "repo": "tiny-package-manager",
-                "stars": 476,
+                "stars": 477,
                 "topics": [
                   "npm",
                   "package-manager",
@@ -1183,7 +1183,7 @@
                 "open_issues": 0,
                 "owner": "inFaaa",
                 "repo": "build-your-own-x-vibe-coding",
-                "stars": 100,
+                "stars": 102,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -1215,7 +1215,7 @@
             "open_issues": 642,
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 547337,
+            "stars": 547568,
             "topics": [
               "awesome-list",
               "free",
@@ -1243,7 +1243,7 @@
             "open_issues": 642,
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 547337,
+            "stars": 547568,
             "topics": [
               "awesome-list",
               "free",
@@ -1260,7 +1260,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T08:58:43.815Z",
+    "last_updated": "2026-09-16T08:50:59.108Z",
     "original_repository_info": {
       "archived": false,
       "description": "Master programming by recreating your favorite technologies from scratch.",
@@ -1272,7 +1272,7 @@
       "open_issues": 642,
       "owner": "codecrafters-io",
       "repo": "build-your-own-x",
-      "stars": 547337,
+      "stars": 547568,
       "topics": [
         "awesome-list",
         "free",
