@@ -49,7 +49,7 @@
                 "open_issues": 4,
                 "owner": "ssloy",
                 "repo": "tinyrenderer",
-                "stars": 24256,
+                "stars": 24258,
                 "topics": [
                   "3d",
                   "3d-graphics",
@@ -98,7 +98,7 @@
                 "open_issues": 2,
                 "owner": "rasbt",
                 "repo": "LLMs-from-scratch",
-                "stars": 105175,
+                "stars": 105214,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -139,7 +139,7 @@
                 "open_issues": 43,
                 "owner": "langchain-ai",
                 "repo": "rag-from-scratch",
-                "stars": 9335,
+                "stars": 9341,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -293,7 +293,7 @@
                 "open_issues": 20,
                 "owner": "Fewbytes",
                 "repo": "rubber-docker",
-                "stars": 3248,
+                "stars": 3247,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -342,7 +342,7 @@
                 "open_issues": 29,
                 "owner": "pomber",
                 "repo": "didact",
-                "stars": 6768,
+                "stars": 6769,
                 "topics": [
                   "diy-guide",
                   "javascript",
@@ -501,10 +501,10 @@
                 "language": "C",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-02-04T09:33:56Z",
-                "open_issues": 130,
+                "open_issues": 129,
                 "owner": "cfenollosa",
                 "repo": "os-tutorial",
-                "stars": 30711,
+                "stars": 30710,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -562,7 +562,7 @@
                 "open_issues": 2,
                 "owner": "jserv",
                 "repo": "mini-arm-os",
-                "stars": 1255,
+                "stars": 1256,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -590,7 +590,7 @@
                 "open_issues": 59,
                 "owner": "BrunoLevy",
                 "repo": "learn-fpga",
-                "stars": 3686,
+                "stars": 3687,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -618,7 +618,7 @@
                 "open_issues": 16,
                 "owner": "jamiebuilds",
                 "repo": "the-super-tiny-compiler",
-                "stars": 28563,
+                "stars": 28561,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -639,7 +639,7 @@
                 "open_issues": 25,
                 "owner": "DoctorWkt",
                 "repo": "acwj",
-                "stars": 13412,
+                "stars": 13411,
                 "topics": [
                   "c",
                   "compiler",
@@ -901,7 +901,7 @@
                 "open_issues": 405,
                 "owner": "trekhleb",
                 "repo": "javascript-algorithms",
-                "stars": 196764,
+                "stars": 196774,
                 "topics": [
                   "algorithm",
                   "algorithms",
@@ -960,7 +960,7 @@
                 "open_issues": 6,
                 "owner": "EmilHernvall",
                 "repo": "dnsguide",
-                "stars": 4669,
+                "stars": 4670,
                 "topics": [
                   "dns",
                   "dns-server",
@@ -1049,7 +1049,7 @@
                 "open_issues": 12,
                 "owner": "ronami",
                 "repo": "minipack",
-                "stars": 3298,
+                "stars": 3299,
                 "topics": [
                   "browserify",
                   "commonjs",
@@ -1212,10 +1212,10 @@
             "language": "Markdown",
             "license": null,
             "last_commit": "2026-07-14T19:25:58Z",
-            "open_issues": 643,
+            "open_issues": 645,
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 547970,
+            "stars": 548143,
             "topics": [
               "awesome-list",
               "free",
@@ -1240,10 +1240,10 @@
             "language": "Markdown",
             "license": null,
             "last_commit": "2026-07-14T19:25:58Z",
-            "open_issues": 643,
+            "open_issues": 645,
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 547970,
+            "stars": 548143,
             "topics": [
               "awesome-list",
               "free",
@@ -1260,7 +1260,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T08:30:21.914Z",
+    "last_updated": "2026-09-19T08:18:01.884Z",
     "original_repository_info": {
       "archived": false,
       "description": "Master programming by recreating your favorite technologies from scratch.",
@@ -1269,10 +1269,10 @@
       "language": "Markdown",
       "license": null,
       "last_commit": "2026-07-14T19:25:58Z",
-      "open_issues": 643,
+      "open_issues": 645,
       "owner": "codecrafters-io",
       "repo": "build-your-own-x",
-      "stars": 547970,
+      "stars": 548143,
       "topics": [
         "awesome-list",
         "free",
