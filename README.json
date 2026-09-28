@@ -49,7 +49,7 @@
                 "open_issues": 4,
                 "owner": "ssloy",
                 "repo": "tinyrenderer",
-                "stars": 24304,
+                "stars": 24310,
                 "topics": [
                   "3d",
                   "3d-graphics",
@@ -98,7 +98,7 @@
                 "open_issues": 3,
                 "owner": "rasbt",
                 "repo": "LLMs-from-scratch",
-                "stars": 105644,
+                "stars": 105694,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -139,7 +139,7 @@
                 "open_issues": 43,
                 "owner": "langchain-ai",
                 "repo": "rag-from-scratch",
-                "stars": 9384,
+                "stars": 9392,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -342,7 +342,7 @@
                 "open_issues": 29,
                 "owner": "pomber",
                 "repo": "didact",
-                "stars": 6768,
+                "stars": 6767,
                 "topics": [
                   "diy-guide",
                   "javascript",
@@ -504,7 +504,7 @@
                 "open_issues": 128,
                 "owner": "cfenollosa",
                 "repo": "os-tutorial",
-                "stars": 30733,
+                "stars": 30736,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -525,7 +525,7 @@
                 "open_issues": 66,
                 "owner": "s-matyukevich",
                 "repo": "raspberry-pi-os",
-                "stars": 13938,
+                "stars": 13941,
                 "topics": [
                   "arm",
                   "armv8",
@@ -590,7 +590,7 @@
                 "open_issues": 77,
                 "owner": "BrunoLevy",
                 "repo": "learn-fpga",
-                "stars": 3701,
+                "stars": 3706,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -618,7 +618,7 @@
                 "open_issues": 16,
                 "owner": "jamiebuilds",
                 "repo": "the-super-tiny-compiler",
-                "stars": 28557,
+                "stars": 28558,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -639,7 +639,7 @@
                 "open_issues": 25,
                 "owner": "DoctorWkt",
                 "repo": "acwj",
-                "stars": 13419,
+                "stars": 13421,
                 "topics": [
                   "c",
                   "compiler",
@@ -665,7 +665,7 @@
                 "open_issues": 56,
                 "owner": "kanaka",
                 "repo": "mal",
-                "stars": 10738,
+                "stars": 10739,
                 "topics": [
                   "bash",
                   "c",
@@ -707,7 +707,7 @@
                 "open_issues": 11,
                 "owner": "lotabout",
                 "repo": "write-a-C-interpreter",
-                "stars": 4403,
+                "stars": 4402,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -901,7 +901,7 @@
                 "open_issues": 407,
                 "owner": "trekhleb",
                 "repo": "javascript-algorithms",
-                "stars": 196822,
+                "stars": 196828,
                 "topics": [
                   "algorithm",
                   "algorithms",
@@ -928,10 +928,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2024-07-21T16:01:36Z",
-                "open_issues": 28,
+                "open_issues": 29,
                 "owner": "relativty",
                 "repo": "Relativty",
-                "stars": 7247,
+                "stars": 7248,
                 "topics": [
                   "diy",
                   "hardware",
@@ -989,7 +989,7 @@
                 "open_issues": 27,
                 "owner": "jamesroutley",
                 "repo": "write-a-hash-table",
-                "stars": 4390,
+                "stars": 4391,
                 "topics": [
                   "c",
                   "data-structures",
@@ -1046,7 +1046,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2021-02-14T14:51:03Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "ronami",
                 "repo": "minipack",
                 "stars": 3302,
@@ -1212,10 +1212,10 @@
             "language": "Markdown",
             "license": null,
             "last_commit": "2026-07-14T19:25:58Z",
-            "open_issues": 645,
+            "open_issues": 646,
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 549989,
+            "stars": 550271,
             "topics": [
               "awesome-list",
               "free",
@@ -1240,10 +1240,10 @@
             "language": "Markdown",
             "license": null,
             "last_commit": "2026-07-14T19:25:58Z",
-            "open_issues": 645,
+            "open_issues": 646,
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 549989,
+            "stars": 550271,
             "topics": [
               "awesome-list",
               "free",
@@ -1260,7 +1260,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T09:32:05.853Z",
+    "last_updated": "2026-09-28T10:10:50.702Z",
     "original_repository_info": {
       "archived": false,
       "description": "Master programming by recreating your favorite technologies from scratch.",
@@ -1269,10 +1269,10 @@
       "language": "Markdown",
       "license": null,
       "last_commit": "2026-07-14T19:25:58Z",
-      "open_issues": 645,
+      "open_issues": 646,
       "owner": "codecrafters-io",
       "repo": "build-your-own-x",
-      "stars": 549989,
+      "stars": 550271,
       "topics": [
         "awesome-list",
         "free",
