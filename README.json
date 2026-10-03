@@ -21,7 +21,7 @@
                 "open_issues": 2,
                 "owner": "buildthingsuseful",
                 "repo": "build-your-own-kafka",
-                "stars": 149,
+                "stars": 150,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -49,7 +49,7 @@
                 "open_issues": 4,
                 "owner": "ssloy",
                 "repo": "tinyrenderer",
-                "stars": 24325,
+                "stars": 24326,
                 "topics": [
                   "3d",
                   "3d-graphics",
@@ -98,7 +98,7 @@
                 "open_issues": 1,
                 "owner": "rasbt",
                 "repo": "LLMs-from-scratch",
-                "stars": 105900,
+                "stars": 105917,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -901,7 +901,7 @@
                 "open_issues": 408,
                 "owner": "trekhleb",
                 "repo": "javascript-algorithms",
-                "stars": 196867,
+                "stars": 196868,
                 "topics": [
                   "algorithm",
                   "algorithms",
@@ -1198,7 +1198,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:39:18.410Z",
+    "last_updated": "2026-10-03T09:26:37.713Z",
     "original_repository_info": {
       "archived": false,
       "description": "Master programming by recreating your favorite technologies from scratch.",
@@ -1210,7 +1210,7 @@
       "open_issues": 666,
       "owner": "codecrafters-io",
       "repo": "build-your-own-x",
-      "stars": 551245,
+      "stars": 551280,
       "topics": [
         "awesome-list",
         "free",
