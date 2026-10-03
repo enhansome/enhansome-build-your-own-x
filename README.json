@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "Java: Building Your Own Kafka-like System From Scratch: A Step-by-Step Guide",
-              "description": null,
+              "description": "buildthingsuseful/build-your-own-kafka",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -36,7 +36,7 @@
             {
               "node_type": "item",
               "title": "C++: How OpenGL works: software rendering in 500 lines of code",
-              "description": null,
+              "description": "ssloy/tinyrenderer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -49,7 +49,7 @@
                 "open_issues": 4,
                 "owner": "ssloy",
                 "repo": "tinyrenderer",
-                "stars": 24323,
+                "stars": 24325,
                 "topics": [
                   "3d",
                   "3d-graphics",
@@ -85,7 +85,7 @@
             {
               "node_type": "item",
               "title": "Python: A Large Language Model (LLM)",
-              "description": null,
+              "description": "rasbt/LLMs-from-scratch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -94,11 +94,11 @@
                 "id": 669879380,
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T17:08:20Z",
+                "last_commit": "2026-10-02T14:55:52Z",
                 "open_issues": 1,
                 "owner": "rasbt",
                 "repo": "LLMs-from-scratch",
-                "stars": 105881,
+                "stars": 105900,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -126,7 +126,7 @@
             {
               "node_type": "item",
               "title": "Python: RAG for Document Search",
-              "description": null,
+              "description": "langchain-ai/rag-from-scratch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -139,7 +139,7 @@
                 "open_issues": 44,
                 "owner": "langchain-ai",
                 "repo": "rag-from-scratch",
-                "stars": 9426,
+                "stars": 9432,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -154,7 +154,7 @@
             {
               "node_type": "item",
               "title": "JavaScript: Creating a blockchain with JavaScript",
-              "description": null,
+              "description": "Savjee/SavjeeCoin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -179,7 +179,7 @@
             {
               "node_type": "item",
               "title": "JavaScript: A cryptocurrency implementation in less than 1500 lines of code",
-              "description": null,
+              "description": "conradoqg/naivecoin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -206,7 +206,7 @@
             {
               "node_type": "item",
               "title": "JavaScript: Build your own Blockchain in JavaScript",
-              "description": null,
+              "description": "nambrot/blockchain-in-js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -231,7 +231,7 @@
             {
               "node_type": "item",
               "title": "Ruby: Programming Blockchains Step-by-Step (Manuscripts Book Edition)",
-              "description": null,
+              "description": "openblockchains/programming-blockchains",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -259,7 +259,7 @@
             {
               "node_type": "item",
               "title": "Shell: Docker implemented in around 100 lines of bash",
-              "description": null,
+              "description": "p8952/bocker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -280,7 +280,7 @@
             {
               "node_type": "item",
               "title": "Python: A workshop on Linux containers: Rebuild Docker from Scratch",
-              "description": null,
+              "description": "Fewbytes/rubber-docker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -301,7 +301,7 @@
             {
               "node_type": "item",
               "title": "Python: A proof-of-concept imitation of Docker, written in 100% Python",
-              "description": null,
+              "description": "tonybaloney/mocker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -329,7 +329,7 @@
             {
               "node_type": "item",
               "title": "JavaScript: A DIY guide to build your own React",
-              "description": null,
+              "description": "pomber/didact",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -363,7 +363,7 @@
             {
               "node_type": "item",
               "title": "Lua: BYTEPATH",
-              "description": null,
+              "description": "a327ex/blog",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -402,7 +402,7 @@
             {
               "node_type": "item",
               "title": "C / Python: Build your own VPN/Virtual Switch",
-              "description": null,
+              "description": "peiyuanix/build-your-own-zerotier",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -436,7 +436,7 @@
             {
               "node_type": "item",
               "title": "Python: Build Deep Learning From Scratch (reimplement PyTorch internals across 34 stages)",
-              "description": null,
+              "description": "roiamiel1/Build-Deep-Learning-From-Scratch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -457,7 +457,7 @@
             {
               "node_type": "item",
               "title": "Python: SlowTorch: Implementation of PyTorch from the ground up in 100% pure Python",
-              "description": null,
+              "description": "xames3/slowtorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -491,7 +491,7 @@
             {
               "node_type": "item",
               "title": "C: How to create an OS from scratch",
-              "description": null,
+              "description": "cfenollosa/os-tutorial",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -512,7 +512,7 @@
             {
               "node_type": "item",
               "title": "C: Learning operating system development using Linux kernel and Raspberry Pi",
-              "description": null,
+              "description": "s-matyukevich/raspberry-pi-os",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -525,7 +525,7 @@
                 "open_issues": 66,
                 "owner": "s-matyukevich",
                 "repo": "raspberry-pi-os",
-                "stars": 13948,
+                "stars": 13947,
                 "topics": [
                   "arm",
                   "armv8",
@@ -549,7 +549,7 @@
             {
               "node_type": "item",
               "title": "C: Build a minimal multi-tasking kernel for ARM from scratch",
-              "description": null,
+              "description": "jserv/mini-arm-os",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -577,7 +577,7 @@
             {
               "node_type": "item",
               "title": "Verilog: From Blinker to RISC-V",
-              "description": null,
+              "description": "BrunoLevy/learn-fpga",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -590,7 +590,7 @@
                 "open_issues": 77,
                 "owner": "BrunoLevy",
                 "repo": "learn-fpga",
-                "stars": 3712,
+                "stars": 3713,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -605,7 +605,7 @@
             {
               "node_type": "item",
               "title": "JavaScript: The Super Tiny Compiler",
-              "description": null,
+              "description": "jamiebuilds/the-super-tiny-compiler",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -618,7 +618,7 @@
                 "open_issues": 16,
                 "owner": "jamiebuilds",
                 "repo": "the-super-tiny-compiler",
-                "stars": 28561,
+                "stars": 28560,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -626,7 +626,7 @@
             {
               "node_type": "item",
               "title": "C: A journey explaining how to build a compiler from scratch",
-              "description": null,
+              "description": "DoctorWkt/acwj",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -639,7 +639,7 @@
                 "open_issues": 25,
                 "owner": "DoctorWkt",
                 "repo": "acwj",
-                "stars": 13442,
+                "stars": 13451,
                 "topics": [
                   "c",
                   "compiler",
@@ -652,7 +652,7 @@
             {
               "node_type": "item",
               "title": "(any): mal - Make a Lisp",
-              "description": null,
+              "description": "kanaka/mal",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -665,7 +665,7 @@
                 "open_issues": 56,
                 "owner": "kanaka",
                 "repo": "mal",
-                "stars": 10741,
+                "stars": 10740,
                 "topics": [
                   "bash",
                   "c",
@@ -694,7 +694,7 @@
             {
               "node_type": "item",
               "title": "C: C interpreter that interprets itself.",
-              "description": null,
+              "description": "lotabout/write-a-C-interpreter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -715,7 +715,7 @@
             {
               "node_type": "item",
               "title": "Assembly: Jonesforth",
-              "description": null,
+              "description": "nornagon/jonesforth",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -736,7 +736,7 @@
             {
               "node_type": "item",
               "title": "Go: The Super Tiny Compiler",
-              "description": null,
+              "description": "hazbo/the-super-tiny-compiler",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -749,7 +749,7 @@
                 "open_issues": 1,
                 "owner": "hazbo",
                 "repo": "the-super-tiny-compiler",
-                "stars": 688,
+                "stars": 687,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -757,7 +757,7 @@
             {
               "node_type": "item",
               "title": "C: A C & x86 version of the \"Let's Build a Compiler\" by Jack Crenshaw",
-              "description": null,
+              "description": "lotabout/Let-s-build-a-compiler",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -778,7 +778,7 @@
             {
               "node_type": "item",
               "title": "JavaScript: The Super Tiny Interpreter",
-              "description": null,
+              "description": "keyz/the-super-tiny-interpreter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -806,7 +806,7 @@
             {
               "node_type": "item",
               "title": "C: Let's build a shell!",
-              "description": null,
+              "description": "kamalmarhubi/shell-workshop",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -827,7 +827,7 @@
             {
               "node_type": "item",
               "title": "C: Build Your Own Shell",
-              "description": null,
+              "description": "tokenrove/build-your-own-shell",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -860,7 +860,7 @@
             {
               "node_type": "item",
               "title": "Node.js: lets-build-express",
-              "description": null,
+              "description": "antsmartian/lets-build-express",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -888,7 +888,7 @@
             {
               "node_type": "item",
               "title": "JavaScript: JavaScript Algorithms and Data Structures",
-              "description": null,
+              "description": "trekhleb/javascript-algorithms",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -901,7 +901,7 @@
                 "open_issues": 408,
                 "owner": "trekhleb",
                 "repo": "javascript-algorithms",
-                "stars": 196864,
+                "stars": 196867,
                 "topics": [
                   "algorithm",
                   "algorithms",
@@ -918,7 +918,7 @@
             {
               "node_type": "item",
               "title": "C++: Build your own VR headset for $200",
-              "description": null,
+              "description": "relativty/Relativty",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -931,7 +931,7 @@
                 "open_issues": 28,
                 "owner": "relativty",
                 "repo": "Relativty",
-                "stars": 7249,
+                "stars": 7250,
                 "topics": [
                   "diy",
                   "hardware",
@@ -947,7 +947,7 @@
             {
               "node_type": "item",
               "title": "Rust: Building a DNS server in Rust",
-              "description": null,
+              "description": "EmilHernvall/dnsguide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -976,7 +976,7 @@
             {
               "node_type": "item",
               "title": "C: Learn how to write a hash table in C",
-              "description": null,
+              "description": "jamesroutley/write-a-hash-table",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -989,7 +989,7 @@
                 "open_issues": 27,
                 "owner": "jamesroutley",
                 "repo": "write-a-hash-table",
-                "stars": 4393,
+                "stars": 4392,
                 "topics": [
                   "c",
                   "data-structures",
@@ -1002,7 +1002,7 @@
             {
               "node_type": "item",
               "title": "Lua: Building a CDN from Scratch to Learn about CDN",
-              "description": null,
+              "description": "leandromoreira/cdn-up-and-running",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1036,7 +1036,7 @@
             {
               "node_type": "item",
               "title": "JavaScript: Build Your Own Module Bundler - Minipack",
-              "description": null,
+              "description": "ronami/minipack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1068,7 +1068,7 @@
             {
               "node_type": "item",
               "title": "TypeScript: Tiny Package Manager: Learns how npm or Yarn works",
-              "description": null,
+              "description": "g-plane/tiny-package-manager",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1081,7 +1081,7 @@
                 "open_issues": 0,
                 "owner": "g-plane",
                 "repo": "tiny-package-manager",
-                "stars": 478,
+                "stars": 480,
                 "topics": [
                   "npm",
                   "package-manager",
@@ -1093,7 +1093,7 @@
             {
               "node_type": "item",
               "title": "Go: Video Encoding from Scratch",
-              "description": null,
+              "description": "kevmo314/codec-from-scratch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1106,7 +1106,7 @@
                 "open_issues": 1,
                 "owner": "kevmo314",
                 "repo": "codec-from-scratch",
-                "stars": 467,
+                "stars": 466,
                 "topics": [
                   "codec",
                   "go",
@@ -1120,7 +1120,7 @@
             {
               "node_type": "item",
               "title": "Kotlin: Build Your Own Cache",
-              "description": null,
+              "description": "kezhenxu94/cache-lite",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1149,7 +1149,7 @@
             {
               "node_type": "item",
               "title": "Python: JSON Decoding Algorithm",
-              "description": null,
+              "description": "cheery/json-algorithm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1170,7 +1170,7 @@
             {
               "node_type": "item",
               "title": "(any): build-your-own-x-vibe-coding: BYOX-style tutorials adapted for vibe coding",
-              "description": null,
+              "description": "inFaaa/build-your-own-x-vibe-coding",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1195,72 +1195,10 @@
         }
       ],
       "title": "Tutorials"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Submissions welcome, just send a PR, or create an issue",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Master programming by recreating your favorite technologies from scratch.",
-            "homepage": "https://codecrafters.io",
-            "id": 132750724,
-            "language": "Markdown",
-            "license": null,
-            "last_commit": "2026-07-14T19:25:58Z",
-            "open_issues": 666,
-            "owner": "codecrafters-io",
-            "repo": "build-your-own-x",
-            "stars": 551137,
-            "topics": [
-              "awesome-list",
-              "free",
-              "programming",
-              "tutorial-code",
-              "tutorial-exercises",
-              "tutorials"
-            ]
-          },
-          "first_seen": "2026-08-28T15:41:04.127Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Help us review pending submissions",
-          "description": "by leaving comments and \"reactions\"",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Master programming by recreating your favorite technologies from scratch.",
-            "homepage": "https://codecrafters.io",
-            "id": 132750724,
-            "language": "Markdown",
-            "license": null,
-            "last_commit": "2026-07-14T19:25:58Z",
-            "open_issues": 666,
-            "owner": "codecrafters-io",
-            "repo": "build-your-own-x",
-            "stars": 551137,
-            "topics": [
-              "awesome-list",
-              "free",
-              "programming",
-              "tutorial-code",
-              "tutorial-exercises",
-              "tutorials"
-            ]
-          },
-          "first_seen": "2026-08-28T15:41:04.127Z"
-        }
-      ],
-      "title": "Contribute"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T10:03:37.578Z",
+    "last_updated": "2026-10-03T04:39:18.410Z",
     "original_repository_info": {
       "archived": false,
       "description": "Master programming by recreating your favorite technologies from scratch.",
@@ -1272,7 +1210,7 @@
       "open_issues": 666,
       "owner": "codecrafters-io",
       "repo": "build-your-own-x",
-      "stars": 551137,
+      "stars": 551245,
       "topics": [
         "awesome-list",
         "free",
