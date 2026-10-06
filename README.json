@@ -98,7 +98,7 @@
                 "open_issues": 2,
                 "owner": "rasbt",
                 "repo": "LLMs-from-scratch",
-                "stars": 106114,
+                "stars": 106126,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -136,7 +136,7 @@
                 "language": "Jupyter Notebook",
                 "license": null,
                 "last_commit": "2025-06-26T03:16:10Z",
-                "open_issues": 44,
+                "open_issues": 45,
                 "owner": "langchain-ai",
                 "repo": "rag-from-scratch",
                 "stars": 9453,
@@ -272,7 +272,7 @@
                 "open_issues": 15,
                 "owner": "p8952",
                 "repo": "bocker",
-                "stars": 12685,
+                "stars": 12684,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -504,7 +504,7 @@
                 "open_issues": 128,
                 "owner": "cfenollosa",
                 "repo": "os-tutorial",
-                "stars": 30750,
+                "stars": 30749,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -562,7 +562,7 @@
                 "open_issues": 2,
                 "owner": "jserv",
                 "repo": "mini-arm-os",
-                "stars": 1257,
+                "stars": 1258,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -639,7 +639,7 @@
                 "open_issues": 25,
                 "owner": "DoctorWkt",
                 "repo": "acwj",
-                "stars": 13457,
+                "stars": 13459,
                 "topics": [
                   "c",
                   "compiler",
@@ -665,7 +665,7 @@
                 "open_issues": 56,
                 "owner": "kanaka",
                 "repo": "mal",
-                "stars": 10741,
+                "stars": 10742,
                 "topics": [
                   "bash",
                   "c",
@@ -898,10 +898,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-07-26T02:43:08Z",
-                "open_issues": 407,
+                "open_issues": 408,
                 "owner": "trekhleb",
                 "repo": "javascript-algorithms",
-                "stars": 196857,
+                "stars": 196859,
                 "topics": [
                   "algorithm",
                   "algorithms",
@@ -1198,7 +1198,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:52:28.304Z",
+    "last_updated": "2026-10-06T13:16:19.986Z",
     "original_repository_info": {
       "archived": false,
       "description": "Master programming by recreating your favorite technologies from scratch.",
@@ -1210,7 +1210,7 @@
       "open_issues": 668,
       "owner": "codecrafters-io",
       "repo": "build-your-own-x",
-      "stars": 551794,
+      "stars": 551821,
       "topics": [
         "awesome-list",
         "free",
