@@ -49,7 +49,7 @@
                 "open_issues": 4,
                 "owner": "ssloy",
                 "repo": "tinyrenderer",
-                "stars": 24355,
+                "stars": 24356,
                 "topics": [
                   "3d",
                   "3d-graphics",
@@ -98,7 +98,7 @@
                 "open_issues": 3,
                 "owner": "rasbt",
                 "repo": "LLMs-from-scratch",
-                "stars": 106258,
+                "stars": 106305,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -139,7 +139,7 @@
                 "open_issues": 45,
                 "owner": "langchain-ai",
                 "repo": "rag-from-scratch",
-                "stars": 9477,
+                "stars": 9483,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -167,7 +167,7 @@
                 "open_issues": 2,
                 "owner": "Savjee",
                 "repo": "SavjeeCoin",
-                "stars": 1773,
+                "stars": 1774,
                 "topics": [
                   "blockchain",
                   "cryptography",
@@ -272,7 +272,7 @@
                 "open_issues": 15,
                 "owner": "p8952",
                 "repo": "bocker",
-                "stars": 12684,
+                "stars": 12683,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -342,7 +342,7 @@
                 "open_issues": 29,
                 "owner": "pomber",
                 "repo": "didact",
-                "stars": 6771,
+                "stars": 6770,
                 "topics": [
                   "diy-guide",
                   "javascript",
@@ -412,7 +412,7 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2024-02-20T09:24:46Z",
-                "open_issues": 4,
+                "open_issues": 3,
                 "owner": "peiyuanix",
                 "repo": "build-your-own-zerotier",
                 "stars": 641,
@@ -504,7 +504,7 @@
                 "open_issues": 128,
                 "owner": "cfenollosa",
                 "repo": "os-tutorial",
-                "stars": 30754,
+                "stars": 30753,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -525,7 +525,7 @@
                 "open_issues": 66,
                 "owner": "s-matyukevich",
                 "repo": "raspberry-pi-os",
-                "stars": 13947,
+                "stars": 13949,
                 "topics": [
                   "arm",
                   "armv8",
@@ -562,7 +562,7 @@
                 "open_issues": 2,
                 "owner": "jserv",
                 "repo": "mini-arm-os",
-                "stars": 1260,
+                "stars": 1261,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -590,7 +590,7 @@
                 "open_issues": 77,
                 "owner": "BrunoLevy",
                 "repo": "learn-fpga",
-                "stars": 3724,
+                "stars": 3726,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -618,7 +618,7 @@
                 "open_issues": 16,
                 "owner": "jamiebuilds",
                 "repo": "the-super-tiny-compiler",
-                "stars": 28554,
+                "stars": 28553,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -639,7 +639,7 @@
                 "open_issues": 25,
                 "owner": "DoctorWkt",
                 "repo": "acwj",
-                "stars": 13463,
+                "stars": 13466,
                 "topics": [
                   "c",
                   "compiler",
@@ -665,7 +665,7 @@
                 "open_issues": 56,
                 "owner": "kanaka",
                 "repo": "mal",
-                "stars": 10744,
+                "stars": 10743,
                 "topics": [
                   "bash",
                   "c",
@@ -901,7 +901,7 @@
                 "open_issues": 411,
                 "owner": "trekhleb",
                 "repo": "javascript-algorithms",
-                "stars": 196652,
+                "stars": 196662,
                 "topics": [
                   "algorithm",
                   "algorithms",
@@ -931,7 +931,7 @@
                 "open_issues": 28,
                 "owner": "relativty",
                 "repo": "Relativty",
-                "stars": 7256,
+                "stars": 7255,
                 "topics": [
                   "diy",
                   "hardware",
@@ -1106,7 +1106,7 @@
                 "open_issues": 1,
                 "owner": "kevmo314",
                 "repo": "codec-from-scratch",
-                "stars": 466,
+                "stars": 467,
                 "topics": [
                   "codec",
                   "go",
@@ -1183,7 +1183,7 @@
                 "open_issues": 0,
                 "owner": "inFaaa",
                 "repo": "build-your-own-x-vibe-coding",
-                "stars": 105,
+                "stars": 107,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -1198,7 +1198,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T10:55:19.772Z",
+    "last_updated": "2026-10-10T10:08:15.578Z",
     "original_repository_info": {
       "archived": false,
       "description": "Master programming by recreating your favorite technologies from scratch.",
@@ -1207,10 +1207,10 @@
       "language": "Markdown",
       "license": null,
       "last_commit": "2026-07-14T19:25:58Z",
-      "open_issues": 673,
+      "open_issues": 674,
       "owner": "codecrafters-io",
       "repo": "build-your-own-x",
-      "stars": 552098,
+      "stars": 552310,
       "topics": [
         "awesome-list",
         "free",
