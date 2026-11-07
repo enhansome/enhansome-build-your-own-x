@@ -49,7 +49,7 @@
                 "open_issues": 4,
                 "owner": "ssloy",
                 "repo": "tinyrenderer",
-                "stars": 24498,
+                "stars": 24497,
                 "topics": [
                   "3d",
                   "3d-graphics",
@@ -94,11 +94,11 @@
                 "id": 669879380,
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-06T01:58:43Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-06T21:20:06Z",
+                "open_issues": 1,
                 "owner": "rasbt",
                 "repo": "LLMs-from-scratch",
-                "stars": 107902,
+                "stars": 107949,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -139,7 +139,7 @@
                 "open_issues": 46,
                 "owner": "langchain-ai",
                 "repo": "rag-from-scratch",
-                "stars": 9615,
+                "stars": 9621,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -272,7 +272,7 @@
                 "open_issues": 15,
                 "owner": "p8952",
                 "repo": "bocker",
-                "stars": 12712,
+                "stars": 12709,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -342,7 +342,7 @@
                 "open_issues": 29,
                 "owner": "pomber",
                 "repo": "didact",
-                "stars": 6765,
+                "stars": 6767,
                 "topics": [
                   "diy-guide",
                   "javascript",
@@ -504,7 +504,7 @@
                 "open_issues": 129,
                 "owner": "cfenollosa",
                 "repo": "os-tutorial",
-                "stars": 30793,
+                "stars": 30791,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -590,7 +590,7 @@
                 "open_issues": 80,
                 "owner": "BrunoLevy",
                 "repo": "learn-fpga",
-                "stars": 3754,
+                "stars": 3755,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -618,7 +618,7 @@
                 "open_issues": 16,
                 "owner": "jamiebuilds",
                 "repo": "the-super-tiny-compiler",
-                "stars": 28545,
+                "stars": 28544,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -639,7 +639,7 @@
                 "open_issues": 25,
                 "owner": "DoctorWkt",
                 "repo": "acwj",
-                "stars": 13471,
+                "stars": 13472,
                 "topics": [
                   "c",
                   "compiler",
@@ -665,7 +665,7 @@
                 "open_issues": 57,
                 "owner": "kanaka",
                 "repo": "mal",
-                "stars": 10761,
+                "stars": 10760,
                 "topics": [
                   "bash",
                   "c",
@@ -749,7 +749,7 @@
                 "open_issues": 1,
                 "owner": "hazbo",
                 "repo": "the-super-tiny-compiler",
-                "stars": 687,
+                "stars": 688,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -840,7 +840,7 @@
                 "open_issues": 8,
                 "owner": "tokenrove",
                 "repo": "build-your-own-shell",
-                "stars": 522,
+                "stars": 523,
                 "topics": [
                   "shell",
                   "tutorial",
@@ -901,7 +901,7 @@
                 "open_issues": 437,
                 "owner": "trekhleb",
                 "repo": "javascript-algorithms",
-                "stars": 196717,
+                "stars": 196721,
                 "topics": [
                   "algorithm",
                   "algorithms",
@@ -1106,7 +1106,7 @@
                 "open_issues": 1,
                 "owner": "kevmo314",
                 "repo": "codec-from-scratch",
-                "stars": 470,
+                "stars": 471,
                 "topics": [
                   "codec",
                   "go",
@@ -1183,7 +1183,7 @@
                 "open_issues": 0,
                 "owner": "inFaaa",
                 "repo": "build-your-own-x-vibe-coding",
-                "stars": 109,
+                "stars": 110,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -1198,7 +1198,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T11:31:26.215Z",
+    "last_updated": "2026-11-07T10:41:50.010Z",
     "original_repository_info": {
       "archived": false,
       "description": "Master programming by recreating your favorite technologies from scratch.",
@@ -1207,10 +1207,10 @@
       "language": "Markdown",
       "license": null,
       "last_commit": "2026-07-14T19:25:58Z",
-      "open_issues": 689,
+      "open_issues": 691,
       "owner": "codecrafters-io",
       "repo": "build-your-own-x",
-      "stars": 560288,
+      "stars": 560568,
       "topics": [
         "awesome-list",
         "free",
