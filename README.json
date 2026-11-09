@@ -49,7 +49,7 @@
                 "open_issues": 4,
                 "owner": "ssloy",
                 "repo": "tinyrenderer",
-                "stars": 24497,
+                "stars": 24501,
                 "topics": [
                   "3d",
                   "3d-graphics",
@@ -98,7 +98,7 @@
                 "open_issues": 2,
                 "owner": "rasbt",
                 "repo": "LLMs-from-scratch",
-                "stars": 107999,
+                "stars": 108069,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -139,7 +139,7 @@
                 "open_issues": 46,
                 "owner": "langchain-ai",
                 "repo": "rag-from-scratch",
-                "stars": 9629,
+                "stars": 9634,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -272,7 +272,7 @@
                 "open_issues": 15,
                 "owner": "p8952",
                 "repo": "bocker",
-                "stars": 12709,
+                "stars": 12708,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -504,7 +504,7 @@
                 "open_issues": 129,
                 "owner": "cfenollosa",
                 "repo": "os-tutorial",
-                "stars": 30792,
+                "stars": 30793,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -562,7 +562,7 @@
                 "open_issues": 2,
                 "owner": "jserv",
                 "repo": "mini-arm-os",
-                "stars": 1264,
+                "stars": 1265,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -590,7 +590,7 @@
                 "open_issues": 83,
                 "owner": "BrunoLevy",
                 "repo": "learn-fpga",
-                "stars": 3756,
+                "stars": 3760,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -618,7 +618,7 @@
                 "open_issues": 16,
                 "owner": "jamiebuilds",
                 "repo": "the-super-tiny-compiler",
-                "stars": 28545,
+                "stars": 28544,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -728,7 +728,7 @@
                 "open_issues": 4,
                 "owner": "nornagon",
                 "repo": "jonesforth",
-                "stars": 1135,
+                "stars": 1136,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -749,7 +749,7 @@
                 "open_issues": 1,
                 "owner": "hazbo",
                 "repo": "the-super-tiny-compiler",
-                "stars": 688,
+                "stars": 689,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -770,7 +770,7 @@
                 "open_issues": 0,
                 "owner": "lotabout",
                 "repo": "Let-s-build-a-compiler",
-                "stars": 587,
+                "stars": 588,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -901,7 +901,7 @@
                 "open_issues": 437,
                 "owner": "trekhleb",
                 "repo": "javascript-algorithms",
-                "stars": 196723,
+                "stars": 196722,
                 "topics": [
                   "algorithm",
                   "algorithms",
@@ -931,7 +931,7 @@
                 "open_issues": 29,
                 "owner": "relativty",
                 "repo": "Relativty",
-                "stars": 7271,
+                "stars": 7272,
                 "topics": [
                   "diy",
                   "hardware",
@@ -960,7 +960,7 @@
                 "open_issues": 7,
                 "owner": "EmilHernvall",
                 "repo": "dnsguide",
-                "stars": 4695,
+                "stars": 4696,
                 "topics": [
                   "dns",
                   "dns-server",
@@ -1015,7 +1015,7 @@
                 "open_issues": 2,
                 "owner": "leandromoreira",
                 "repo": "cdn-up-and-running",
-                "stars": 3715,
+                "stars": 3716,
                 "topics": [
                   "cdn",
                   "docker-compose",
@@ -1049,7 +1049,7 @@
                 "open_issues": 12,
                 "owner": "ronami",
                 "repo": "minipack",
-                "stars": 3303,
+                "stars": 3304,
                 "topics": [
                   "browserify",
                   "commonjs",
@@ -1133,7 +1133,7 @@
                 "open_issues": 1,
                 "owner": "kezhenxu94",
                 "repo": "cache-lite",
-                "stars": 168,
+                "stars": 169,
                 "topics": [
                   "cache",
                   "cache-lite",
@@ -1183,7 +1183,7 @@
                 "open_issues": 0,
                 "owner": "inFaaa",
                 "repo": "build-your-own-x-vibe-coding",
-                "stars": 110,
+                "stars": 112,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -1198,7 +1198,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T10:46:54.958Z",
+    "last_updated": "2026-11-09T12:09:31.264Z",
     "original_repository_info": {
       "archived": false,
       "description": "Master programming by recreating your favorite technologies from scratch.",
@@ -1206,11 +1206,11 @@
       "id": 132750724,
       "language": "Markdown",
       "license": null,
-      "last_commit": "2026-07-14T19:25:58Z",
-      "open_issues": 691,
+      "last_commit": "2026-11-08T16:38:15Z",
+      "open_issues": 692,
       "owner": "codecrafters-io",
       "repo": "build-your-own-x",
-      "stars": 560902,
+      "stars": 561216,
       "topics": [
         "awesome-list",
         "free",
@@ -1220,7 +1220,7 @@
         "tutorials"
       ]
     },
-    "original_repository_sha": "aa17439b62f384511a5561ce308e9598b94d8989",
+    "original_repository_sha": "b2daa235c4fb774402d219c48adfea2a81d94ce7",
     "enhanced_repository": "enhansome/enhansome-build-your-own-x",
     "enhanced_repository_description": null,
     "title": "Awesome build your own x with stars"
