@@ -7,34 +7,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Java: Building Your Own Kafka-like System From Scratch: A Step-by-Step Guide",
-              "description": "buildthingsuseful/build-your-own-kafka",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Build Your Own Kafka",
-                "homepage": "https://medium.com/@buildthingsuseful/building-your-own-kafka-like-system-from-scratch-a-step-by-step-guide-d3c5f0a303c0",
-                "id": 947618604,
-                "language": "Java",
-                "license": "MIT",
-                "last_commit": "2025-03-13T06:03:22Z",
-                "open_issues": 2,
-                "owner": "buildthingsuseful",
-                "repo": "build-your-own-kafka",
-                "stars": 171,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T15:41:04.127Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Build your own"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
               "title": "C++: How OpenGL works: software rendering in 500 lines of code",
               "description": "ssloy/tinyrenderer",
               "children": [],
@@ -49,7 +21,7 @@
                 "open_issues": 4,
                 "owner": "ssloy",
                 "repo": "tinyrenderer",
-                "stars": 24529,
+                "stars": 24532,
                 "topics": [
                   "3d",
                   "3d-graphics",
@@ -98,7 +70,7 @@
                 "open_issues": 6,
                 "owner": "rasbt",
                 "repo": "LLMs-from-scratch",
-                "stars": 108497,
+                "stars": 108546,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -139,10 +111,51 @@
                 "open_issues": 46,
                 "owner": "langchain-ai",
                 "repo": "rag-from-scratch",
-                "stars": 10096,
+                "stars": 10113,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Python: A Reasoning Model (LLM with inference-time scaling, GRPO and distillation)",
+              "description": "rasbt/reasoning-from-scratch",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Implement a reasoning LLM in PyTorch from scratch, step by step",
+                "homepage": "https://mng.bz/lZ5B",
+                "id": 942696497,
+                "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-02T15:24:04Z",
+                "open_issues": 2,
+                "owner": "rasbt",
+                "repo": "reasoning-from-scratch",
+                "stars": 5850,
+                "topics": [
+                  "ai",
+                  "artificial-intelligence",
+                  "chain-of-thought",
+                  "deep-learning",
+                  "distillation",
+                  "grpo",
+                  "inference-time-scaling",
+                  "large-language-models",
+                  "llm",
+                  "llms",
+                  "machine-learning",
+                  "math-reasoning",
+                  "python",
+                  "pytorch",
+                  "reasoning",
+                  "reasoning-models",
+                  "reinforcement-learning",
+                  "rlhf",
+                  "test-time-compute"
+                ]
+              },
+              "first_seen": "2026-11-17T12:29:21.945Z"
             }
           ],
           "description": null,
@@ -192,7 +205,7 @@
                 "open_issues": 20,
                 "owner": "conradoqg",
                 "repo": "naivecoin",
-                "stars": 1284,
+                "stars": 1285,
                 "topics": [
                   "blockchain",
                   "cryptocurrency",
@@ -258,6 +271,34 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Java: Building Your Own Kafka-like System From Scratch: A Step-by-Step Guide",
+              "description": "buildthingsuseful/build-your-own-kafka",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Build Your Own Kafka",
+                "homepage": "https://medium.com/@buildthingsuseful/building-your-own-kafka-like-system-from-scratch-a-step-by-step-guide-d3c5f0a303c0",
+                "id": 947618604,
+                "language": "Java",
+                "license": "MIT",
+                "last_commit": "2025-03-13T06:03:22Z",
+                "open_issues": 2,
+                "owner": "buildthingsuseful",
+                "repo": "build-your-own-kafka",
+                "stars": 171,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T15:41:04.127Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Build your own"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Shell: Docker implemented in around 100 lines of bash",
               "description": "p8952/bocker",
               "children": [],
@@ -272,7 +313,7 @@
                 "open_issues": 15,
                 "owner": "p8952",
                 "repo": "bocker",
-                "stars": 12713,
+                "stars": 12717,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -293,7 +334,7 @@
                 "open_issues": 20,
                 "owner": "Fewbytes",
                 "repo": "rubber-docker",
-                "stars": 3254,
+                "stars": 3256,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -314,7 +355,7 @@
                 "open_issues": 1,
                 "owner": "tonybaloney",
                 "repo": "mocker",
-                "stars": 962,
+                "stars": 963,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -415,7 +456,7 @@
                 "open_issues": 3,
                 "owner": "peiyuanix",
                 "repo": "build-your-own-zerotier",
-                "stars": 646,
+                "stars": 647,
                 "topics": [
                   "build-your-own-x",
                   "tailscale",
@@ -504,7 +545,7 @@
                 "open_issues": 129,
                 "owner": "cfenollosa",
                 "repo": "os-tutorial",
-                "stars": 30814,
+                "stars": 30821,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -590,7 +631,7 @@
                 "open_issues": 84,
                 "owner": "BrunoLevy",
                 "repo": "learn-fpga",
-                "stars": 3776,
+                "stars": 3777,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -618,7 +659,7 @@
                 "open_issues": 16,
                 "owner": "jamiebuilds",
                 "repo": "the-super-tiny-compiler",
-                "stars": 28546,
+                "stars": 28545,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -665,7 +706,7 @@
                 "open_issues": 58,
                 "owner": "kanaka",
                 "repo": "mal",
-                "stars": 10768,
+                "stars": 10770,
                 "topics": [
                   "bash",
                   "c",
@@ -901,7 +942,7 @@
                 "open_issues": 439,
                 "owner": "trekhleb",
                 "repo": "javascript-algorithms",
-                "stars": 196728,
+                "stars": 196734,
                 "topics": [
                   "algorithm",
                   "algorithms",
@@ -931,7 +972,7 @@
                 "open_issues": 29,
                 "owner": "relativty",
                 "repo": "Relativty",
-                "stars": 7277,
+                "stars": 7278,
                 "topics": [
                   "diy",
                   "hardware",
@@ -1067,7 +1108,7 @@
             },
             {
               "node_type": "item",
-              "title": "TypeScript: Tiny Package Manager: Learns how npm or Yarn works",
+              "title": "TypeScript: Tiny Package Manager: Learn how npm or Yarn works",
               "description": "g-plane/tiny-package-manager",
               "children": [],
               "repo_info": {
@@ -1198,7 +1239,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T12:04:08.442Z",
+    "last_updated": "2026-11-17T12:29:21.945Z",
     "original_repository_info": {
       "archived": false,
       "description": "Master programming by recreating your favorite technologies from scratch.",
@@ -1206,11 +1247,11 @@
       "id": 132750724,
       "language": "Markdown",
       "license": null,
-      "last_commit": "2026-11-08T16:38:15Z",
-      "open_issues": 704,
+      "last_commit": "2026-11-17T08:53:01Z",
+      "open_issues": 646,
       "owner": "codecrafters-io",
       "repo": "build-your-own-x",
-      "stars": 563030,
+      "stars": 563301,
       "topics": [
         "awesome-list",
         "free",
@@ -1220,7 +1261,7 @@
         "tutorials"
       ]
     },
-    "original_repository_sha": "b2daa235c4fb774402d219c48adfea2a81d94ce7",
+    "original_repository_sha": "ebae1430d28d52dbe12e189ffc7507e08d8c62ca",
     "enhanced_repository": "enhansome/enhansome-build-your-own-x",
     "enhanced_repository_description": null,
     "title": "Awesome build your own x with stars"

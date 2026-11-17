@@ -18,6 +18,7 @@ It's a great way to learn.
 * [Bot](#build-your-own-bot)
 * [Command-Line Tool](#build-your-own-command-line-tool)
 * [Database](#build-your-own-database)
+* [Distributed Systems](#build-your-own-distributed-systems)
 * [Docker](#build-your-own-docker)
 * [Emulator / Virtual Machine](#build-your-own-emulator--virtual-machine)
 * [Front-end Framework / Library](#build-your-own-front-end-framework--library)
@@ -43,29 +44,28 @@ It's a great way to learn.
 
 ## Tutorials
 
-#### Build your own `Distributed Systems`
-
-* [**Java**: *Building Your Own Kafka-like System From Scratch: A Step-by-Step Guide*](https://github.com/buildthingsuseful/build-your-own-kafka) ⭐ 171 | 🐛 2 | 🌐 Java | 📅 2025-03-13
-
 #### Build your own `3D Renderer`
 
-* [**C++**: *How OpenGL works: software rendering in 500 lines of code*](https://github.com/ssloy/tinyrenderer/wiki) ⭐ 24,529 | 🐛 4 | 🌐 C++ | 📅 2026-07-29
+* [**C++**: *How OpenGL works: software rendering in 500 lines of code*](https://github.com/ssloy/tinyrenderer/wiki) ⭐ 24,532 | 🐛 4 | 🌐 C++ | 📅 2026-07-29
 * [**C++**: *Introduction to Ray Tracing: a Simple Method for Creating 3D Images*](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing/how-does-it-work)
 * [**C++**: *Raycasting engine of Wolfenstein 3D*](http://lodev.org/cgtutor/raycasting.html)
-* [**C++**: *Physically Based Rendering:From Theory To Implementation*](http://www.pbr-book.org/)
+* [**C++**: *Physically Based Rendering:From Theory To Implementation*](https://www.pbr-book.org/)
 * [**C++**: *Ray Tracing in One Weekend*](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 * [**C++**: *Rasterization: a Practical Implementation*](https://www.scratchapixel.com/lessons/3d-basic-rendering/rasterization-practical-implementation/overview-rasterization-algorithm)
 * [**C# / TypeScript / JavaScript**: *Learning how to write a 3D soft engine from scratch in C#, TypeScript or JavaScript*](https://www.davrous.com/2013/06/13/tutorial-series-learning-how-to-write-a-3d-soft-engine-from-scratch-in-c-typescript-or-javascript/)
 * [**Java / JavaScript**: *Build your own 3D renderer*](https://avik-das.github.io/build-your-own-raytracer/)
 * [**Java**: *How to create your own simple 3D render engine in pure Java*](http://blog.rogach.org/2015/08/how-to-create-your-own-simple-3d-render.html)
-* [**JavaScript / Pseudocode**: *Computer Graphics from scratch*](http://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html)
+* [**JavaScript / Pseudocode**: *Computer Graphics from scratch*](https://www.gabrielgambetta.com/computer-graphics-from-scratch/00-introduction.html)
 * [**Python**: *A 3D Modeller*](http://aosabook.org/en/500L/a-3d-modeller.html)
 
 #### Build your own `AI Model`
 
-* [**Python**: *A Large Language Model (LLM)*](https://github.com/rasbt/LLMs-from-scratch) ⭐ 108,497 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2026-11-09
-* [**Python**: *RAG for Document Search*](https://github.com/langchain-ai/rag-from-scratch) ⭐ 10,096 | 🐛 46 | 🌐 Jupyter Notebook | 📅 2025-06-26
+* [**Python**: *A Large Language Model (LLM)*](https://github.com/rasbt/LLMs-from-scratch) ⭐ 108,546 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2026-11-09
+* [**Python**: *RAG for Document Search*](https://github.com/langchain-ai/rag-from-scratch) ⭐ 10,113 | 🐛 46 | 🌐 Jupyter Notebook | 📅 2025-06-26
+* [**Python**: *A Reasoning Model (LLM with inference-time scaling, GRPO and distillation)*](https://github.com/rasbt/reasoning-from-scratch) ⭐ 5,850 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-11-02
 * [**Python**: *Diffusion Models for Image Generation*](https://huggingface.co/learn/diffusion-course/en/unit1/3)
+* [**Python**: *An LLM Evaluation Harness (test cases, runner, rule-based and LLM judges)*](https://machinelearningmastery.com/building-a-custom-llm-evaluation-harness-in-python-from-scratch/)
+* [**Python**: *Sparse Autoencoders (toy models of superposition, then train your own SAE)*](https://learn.arena.education/chapter1_transformer_interp/34_superposition/)
 
 #### Build your own `Augmented Reality`
 
@@ -86,10 +86,10 @@ It's a great way to learn.
 
 #### Build your own `Blockchain / Cryptocurrency`
 
-* [**JavaScript**: *Creating a blockchain with JavaScript*](https://github.com/SavjeeTutorials/SavjeeCoin) ⭐ 1,773 | 🐛 2 | 🌐 JavaScript | 📅 2025-11-21
-* [**JavaScript**: *A cryptocurrency implementation in less than 1500 lines of code*](https://github.com/conradoqg/naivecoin) ⭐ 1,284 | 🐛 20 | 🌐 JavaScript | 📅 2024-05-28
+* [**JavaScript**: *Creating a blockchain with JavaScript*](https://github.com/Savjee/SavjeeCoin) ⭐ 1,773 | 🐛 2 | 🌐 JavaScript | 📅 2025-11-21
+* [**JavaScript**: *A cryptocurrency implementation in less than 1500 lines of code*](https://github.com/conradoqg/naivecoin) ⭐ 1,285 | 🐛 20 | 🌐 JavaScript | 📅 2024-05-28
 * [**JavaScript**: *Build your own Blockchain in JavaScript*](https://github.com/nambrot/blockchain-in-js) ⭐ 1,132 | 🐛 2 | 🌐 JavaScript | 📅 2022-03-17
-* [**Ruby**: *Programming Blockchains Step-by-Step (Manuscripts Book Edition)*](https://github.com/yukimotopress/programming-blockchains-step-by-step) ⭐ 680 | 🐛 0 | 🌐 Ruby | 📅 2021-01-02
+* [**Ruby**: *Programming Blockchains Step-by-Step (Manuscripts Book Edition)*](https://github.com/openblockchains/programming-blockchains) ⭐ 680 | 🐛 0 | 🌐 Ruby | 📅 2021-01-02
 * [**ATS**: *Functional Blockchain*](https://beta.observablehq.com/@galletti94/functional-blockchain)
 * [**Crystal**: *Write your own blockchain and PoW algorithm using Crystal*](https://medium.com/@bradford_hamilton/write-your-own-blockchain-and-pow-algorithm-using-crystal-d53d5d9d0c52)
 * [**Go**: *Building Blockchain in Go*](https://jeiwan.net/posts/building-blockchain-in-go-part-1/)
@@ -122,7 +122,6 @@ It's a great way to learn.
 * [**Python**: *How To Make A Reddit Bot*](https://www.youtube.com/watch?v=krTUf7BpTc0) \[video]
 * [**Python**: *How To Create a Telegram Bot Using Python*](https://www.freecodecamp.org/news/how-to-create-a-telegram-bot-using-python/)
 * [**Python**: *Create a Twitter Bot in Python Using Tweepy*](https://medium.freecodecamp.org/creating-a-twitter-bot-in-python-with-tweepy-ac524157a607)
-* [**Python**: *Creating Reddit Bot with Python & PRAW*](https://www.youtube.com/playlist?list=PLIFBTFgFpoJ9vmYYlfxRFV6U_XhG-4fpP) \[video]
 * [**R**: *Build A Cryptocurrency Trading Bot with R*](https://towardsdatascience.com/build-a-cryptocurrency-trading-bot-with-r-1445c429e1b1)
 * [**Rust**: *A bot for Starcraft in Rust, C or any other language*](https://habr.com/en/post/436254/)
 
@@ -142,7 +141,7 @@ It's a great way to learn.
 
 * [**C**: *Let's Build a Simple Database*](https://cstack.github.io/db_tutorial/)
 * [**C++**: *Build Your Own Redis from Scratch*](https://build-your-own.org/redis)
-* [**C#**: *Build Your Own Database*](https://www.codeproject.com/Articles/1029838/Build-Your-Own-Database)
+* [**C#**: *Build Your Own Database*](https://web.archive.org/web/2017/https://www.codeproject.com/Articles/1029838/Build-Your-Own-Database)
 * [**Clojure**: *An Archaeology-Inspired Database*](http://aosabook.org/en/500L/an-archaeology-inspired-database.html)
 * [**Crystal**: *Why you should build your own NoSQL Database*](https://medium.com/@marceloboeira/why-you-should-build-your-own-nosql-database-9bbba42039f5)
 * [**Go**: *Build Your Own Database from Scratch: From B+Tree To SQL in 3000 Lines*](https://build-your-own.org/database/)
@@ -152,14 +151,19 @@ It's a great way to learn.
 * [**Python**: *DBDB: Dog Bed Database*](http://aosabook.org/en/500L/dbdb-dog-bed-database.html)
 * [**Python**: *Write your own miniature Redis with Python*](http://charlesleifer.com/blog/building-a-simple-redis-server-with-python/)
 * [**Ruby**: *Build your own fast, persistent KV store in Ruby*](https://dineshgowda.com/posts/build-your-own-persistent-kv-store/)
+* [**Rust**: *Mini-LSM: Build a Database Storage Engine in Rust*](https://skyzh.github.io/mini-lsm/)
 * [**Rust**: *Build your own Redis client and server*](https://tokio.rs/tokio/tutorial/setup)
 * [**Rust**: *Vector Database from Scratch*](https://skyzh.github.io/vector-db-from-scratch/)
 
+#### Build your own `Distributed Systems`
+
+* [**Java**: *Building Your Own Kafka-like System From Scratch: A Step-by-Step Guide*](https://github.com/buildthingsuseful/build-your-own-kafka) ⭐ 171 | 🐛 2 | 🌐 Java | 📅 2025-03-13
+
 #### Build your own `Docker`
 
-* [**Shell**: *Docker implemented in around 100 lines of bash*](https://github.com/p8952/bocker) ⭐ 12,713 | 🐛 15 | 🌐 Shell | 📅 2017-12-09
-* [**Python**: *A workshop on Linux containers: Rebuild Docker from Scratch*](https://github.com/Fewbytes/rubber-docker) ⭐ 3,254 | 🐛 20 | 🌐 Python | 📅 2024-07-28
-* [**Python**: *A proof-of-concept imitation of Docker, written in 100% Python*](https://github.com/tonybaloney/mocker) ⭐ 962 | 🐛 1 | 🌐 Python | 📅 2021-07-01
+* [**Shell**: *Docker implemented in around 100 lines of bash*](https://github.com/p8952/bocker) ⭐ 12,717 | 🐛 15 | 🌐 Shell | 📅 2017-12-09
+* [**Python**: *A workshop on Linux containers: Rebuild Docker from Scratch*](https://github.com/Fewbytes/rubber-docker) ⭐ 3,256 | 🐛 20 | 🌐 Python | 📅 2024-07-28
+* [**Python**: *A proof-of-concept imitation of Docker, written in 100% Python*](https://github.com/tonybaloney/mocker) ⭐ 963 | 🐛 1 | 🌐 Python | 📅 2021-07-01
 * [**C**: *Linux containers in 500 lines of code*](https://blog.lizzie.io/linux-containers-in-500-loc.html)
 * [**Go**: *Build Your Own Container Using Less than 100 Lines of Go*](https://www.infoq.com/articles/build-a-container-golang)
 * [**Go**: *Building a container from scratch in Go*](https://www.youtube.com/watch?v=8fi7uSYlOdc) \[video]
@@ -170,7 +174,7 @@ It's a great way to learn.
 * [**C**: *Virtual machine in C*](http://web.archive.org/web/20200121100942/https://blog.felixangell.com/virtual-machine-in-c/)
 * [**C**: *Write your Own Virtual Machine*](https://justinmeiners.github.io/lc3-vm/)
 * [**C**: *Writing a Game Boy emulator, Cinoop*](https://cturt.github.io/cinoop.html)
-* [**C++**: *How to write an emulator (CHIP-8 interpreter)*](http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/)
+* [**C++**: *How to write an emulator (CHIP-8 interpreter)*](https://multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/)
 * [**C++**: *Emulation tutorial (CHIP-8 interpreter)*](http://www.codeslinger.co.uk/pages/projects/chip8.html)
 * [**C++**: *Emulation tutorial (GameBoy emulator)*](http://www.codeslinger.co.uk/pages/projects/gameboy.html)
 * [**C++**: *Emulation tutorial (Master System emulator)*](http://www.codeslinger.co.uk/pages/projects/mastersystem/memory.html)
@@ -182,7 +186,7 @@ It's a great way to learn.
 
 #### Build your own `Front-end Framework / Library`
 
-* [**JavaScript**: *A DIY guide to build your own React*](https://github.com/hexacta/didact) ⭐ 6,765 | 🐛 29 | 🌐 JavaScript | 📅 2026-01-31
+* [**JavaScript**: *A DIY guide to build your own React*](https://github.com/pomber/didact) ⭐ 6,765 | 🐛 29 | 🌐 JavaScript | 📅 2026-01-31
 * [**JavaScript**: *WTF is JSX (Let's Build a JSX Renderer)*](https://jasonformat.com/wtf-is-jsx/)
 * [**JavaScript**: *Building React From Scratch*](https://www.youtube.com/watch?v=_MAD4Oly9yg) \[video]
 * [**JavaScript**: *Gooact: React in 160 lines of JavaScript*](https://medium.com/@sweetpalma/gooact-react-in-160-lines-of-javascript-44e0742ad60f)
@@ -196,6 +200,8 @@ It's a great way to learn.
 * [**JavaScript**: *Building a frontend framework, from scratch, with components (templating, state, VDOM)*](https://mfrachet.github.io/create-frontend-framework/)
 * [**JavaScript**: *Build your own React*](https://pomb.us/build-your-own-react/)
 * [**JavaScript**: *Building a Custom React Renderer*](https://youtu.be/CGpMlWVcHok) \[video]
+* [**JavaScript**: *Build your own Svelte*](https://www.youtube.com/playlist?list=PLoKaNN3BjQX1OQmFzK9SJnFXEurm1-UxQ) \[video]
+* [**TypeScript**: *chibivue*](https://book.chibivue.land/)
 
 #### Build your own `Game`
 
@@ -219,8 +225,9 @@ It's a great way to learn.
 * [**C#**: *Creating a Roguelike Game in C#*](https://roguesharp.wordpress.com/)
 * [**C#**: *Build a C#/WPF RPG*](https://scottlilly.com/build-a-cwpf-rpg/)
 * [**Go**: *Games With Go*](https://www.youtube.com/playlist?list=PLDZujg-VgQlZUy1iCqBbe5faZLMkA3g2x) \[video]
+* [**Java**: *How to Make a 2D Game in Java*](https://www.youtube.com/watch?v=om59cwR7psI\&list=PL_QPQmz5C6WUF-pOQDsbsKbaBZqXj4qSq) \[video]
 * [**Java**: *Code a 2D Game Engine using Java - Full Course for Beginners*](https://www.youtube.com/watch?v=025QFeZfeyM) \[video]
-* [**Java**: *3D Game Development with LWJGL 3*](https://lwjglgamedev.gitbooks.io/3d-game-development-with-lwjgl/content/)
+* [**Java**: *3D Game Development with LWJGL 3*](https://ahbejarano.gitbook.io/lwjglgamedev/)
 * [**JavaScript**: *2D breakout game using Phaser*](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_breakout_game_Phaser)
 * [**JavaScript**: *How to Make Flappy Bird in HTML5 With Phaser*](http://www.lessmilk.com/tutorial/flappy-bird-phaser-1)
 * [**JavaScript**: *Developing Games with React, Redux, and SVG*](https://auth0.com/blog/developing-games-with-react-redux-and-svg-part-1/)
@@ -248,10 +255,11 @@ It's a great way to learn.
 #### Build your own `Memory Allocator`
 
 * [**C**: *Malloc is not magic -- Implementing your own memory allocator*](https://medium.com/p/e0354e914402)
+* [**C**: *Malloc tutorial*](https://danluu.com/malloc-tutorial/)
 
 #### Build your own `Network Stack`
 
-* [**C / Python**: *Build your own VPN/Virtual Switch*](https://github.com/peiyuanix/build-your-own-zerotier) ⭐ 646 | 🐛 3 | 🌐 C | 📅 2024-02-20
+* [**C / Python**: *Build your own VPN/Virtual Switch*](https://github.com/peiyuanix/build-your-own-zerotier) ⭐ 647 | 🐛 3 | 🌐 C | 📅 2024-02-20
 * [**C**: *Beej's Guide to Network Programming*](http://beej.us/guide/bgnet/)
 * [**C**: *Let's code a TCP/IP stack*](http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
 * [**Ruby**: *How to build a network stack in Ruby*](https://medium.com/geckoboard-under-the-hood/how-to-build-a-network-stack-in-ruby-f73aeb1b661b)
@@ -260,12 +268,13 @@ It's a great way to learn.
 
 * [**Python**: *Build Deep Learning From Scratch (reimplement PyTorch internals across 34 stages)*](https://github.com/roiamiel1/Build-Deep-Learning-From-Scratch) ⭐ 73 | 🐛 0 | 🌐 Python | 📅 2026-07-11
 * [**Python**: *SlowTorch: Implementation of PyTorch from the ground up in 100% pure Python*](https://github.com/xames3/slowtorch) ⭐ 25 | 🐛 4 | 🌐 Python | 📅 2025-11-07
-* [**C#**: *Neural Network OCR*](https://www.codeproject.com/Articles/11285/Neural-Network-OCR)
+* [**C#**: *Neural Network OCR*](https://web.archive.org/web/2012/http://www.codeproject.com/Articles/11285/Neural-Network-OCR)
 * [**F#**: *Building Neural Networks in F#: Part 1*](https://medium.com/data-science/building-neural-networks-in-f-part-1-a2832ae972e6)
 * [**F#**: *Building Neural Networks in F#: Part 2*](https://medium.com/data-science/building-neural-networks-in-f-part-2-training-evaluation-5e3a68889da6)
 * [**Go**: *Build a multilayer perceptron with Golang*](https://made2591.github.io/posts/neuralnetwork)
 * [**Go**: *How to build a simple artificial neural network with Go*](https://sausheong.github.io/posts/how-to-build-a-simple-artificial-neural-network-with-go/)
 * [**Go**: *Building a Neural Net from Scratch in Go*](https://datadan.io/blog/neural-net-with-go)
+* [**Haskell**: *Practical Dependent Types in Haskell: Type-Safe Neural Networks (Part 1)*](https://blog.jle.im/entry/practical-dependent-types-in-haskell-1.html)
 * [**JavaScript / Java**: *Neural Networks - The Nature of Code*](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aCibgK1PTWWu9by6XFdCfh) \[video]
 * [**JavaScript**: *Neural networks from scratch for JavaScript linguists (Part1 — The Perceptron)*](https://hackernoon.com/neural-networks-from-scratch-for-javascript-linguists-part1-the-perceptron-632a4d1fbad2)
 * [**Python**: *A Neural Network in 11 lines of Python*](https://iamtrask.github.io/2015/07/12/basic-python-network/)
@@ -275,10 +284,11 @@ It's a great way to learn.
 * [**Python**: *Generate Music using LSTM Neural Network in Keras*](https://towardsdatascience.com/how-to-generate-music-using-a-lstm-neural-network-in-keras-68786834d4c5)
 * [**Python**: *An Introduction to Convolutional Neural Networks*](https://victorzhou.com/blog/intro-to-cnns-part-1/)
 * [**Python**: *Neural Networks: Zero to Hero*](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+* [**Python**: *Neural Networks and Deep Learning*](http://neuralnetworksanddeeplearning.com/)
 
 #### Build your own `Operating System`
 
-* [**C**: *How to create an OS from scratch*](https://github.com/cfenollosa/os-tutorial) ⭐ 30,814 | 🐛 129 | 🌐 C | 📅 2026-02-04
+* [**C**: *How to create an OS from scratch*](https://github.com/cfenollosa/os-tutorial) ⭐ 30,821 | 🐛 129 | 🌐 C | 📅 2026-02-04
 * [**C**: *Learning operating system development using Linux kernel and Raspberry Pi*](https://github.com/s-matyukevich/raspberry-pi-os) ⭐ 13,965 | 🐛 66 | 🌐 C | 📅 2024-03-29
 * [**C**: *Build a minimal multi-tasking kernel for ARM from scratch*](https://github.com/jserv/mini-arm-os) ⭐ 1,264 | 🐛 2 | 🌐 C | 📅 2025-12-14
 * [**Assembly**: *Writing a Tiny x86 Bootloader*](http://joebergeron.io/posts/post_two.html)
@@ -286,10 +296,9 @@ It's a great way to learn.
 * [**C**: *Building a software and hardware stack for a simple computer from scratch*](https://www.youtube.com/watch?v=ZjwvMcP3Nf0\&list=PLU94OURih-CiP4WxKSMt3UcwMSDM3aTtX) \[video]
 * [**C**: *Operating Systems: From 0 to 1*](https://tuhdo.github.io/os01/)
 * [**C**: *The little book about OS development*](https://littleosbook.github.io/)
-* [**C**: *Roll your own toy UNIX-clone OS*](http://jamesmolloy.co.uk/tutorial_html/)
+* [**C**: *Roll your own toy UNIX-clone OS*](https://web.archive.org/web/2020/https://jamesmolloy.co.uk/tutorial_html/)
 * [**C**: *Kernel 101 – Let’s write a Kernel*](https://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
 * [**C**: *Kernel 201 – Let’s write a Kernel with keyboard and screen support*](https://arjunsreedharan.org/post/99370248137/kernel-201-lets-write-a-kernel-with-keyboard)
-* [**C**: *Malloc tutorial*](https://danluu.com/malloc-tutorial/)
 * [**C**: *Hack the virtual memory*](https://blog.holbertonschool.com/hack-the-virtual-memory-c-strings-proc/)
 * [**C**: *Operating systems development for Dummies*](https://medium.com/@lduck11007/operating-systems-development-for-dummies-3d4d786e8ac)
 * [**C++**: *Write your own Operating System*](https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M) \[video]
@@ -304,38 +313,42 @@ It's a great way to learn.
 * [**C++**: *Game physics series by Allen Chou*](http://allenchou.net/game-physics-series/)
 * [**C++**: *How to Create a Custom Physics Engine*](https://gamedevelopment.tutsplus.com/series/how-to-create-a-custom-physics-engine--gamedev-12715)
 * [**C++**: *3D Physics Engine Tutorial*](https://www.youtube.com/playlist?list=PLEETnX-uPtBXm1KEr_2zQ6K_0hoGH6JJ0) \[video]
+* [**C#**: *Let's Make a Physics Engine*](https://www.youtube.com/playlist?list=PLSlpr6o9vURwq3oxVZSimY8iC-cdd3kIs) \[video]
 * [**JavaScript**: *How Physics Engines Work*](http://buildnewgames.com/gamephysics/)
 * [**JavaScript**: *Broad Phase Collision Detection Using Spatial Partitioning*](http://buildnewgames.com/broad-phase-collision-detection/)
 * [**JavaScript**: *Build a simple 2D physics engine for JavaScript games*](https://developer.ibm.com/tutorials/wa-build2dphysicsengine/?mhsrc=ibmsearch_a\&mhq=2dphysic)
 
 #### Build your own `Processor`
 
-* [**Verilog**: *From Blinker to RISC-V*](https://github.com/BrunoLevy/learn-fpga/tree/master/FemtoRV/TUTORIALS/FROM_BLINKER_TO_RISCV) ⭐ 3,776 | 🐛 84 | 🌐 C++ | 📅 2026-10-30
+* [**Verilog**: *From Blinker to RISC-V*](https://github.com/BrunoLevy/learn-fpga/tree/master/FemtoRV/TUTORIALS/FROM_BLINKER_TO_RISCV) ⭐ 3,777 | 🐛 84 | 🌐 C++ | 📅 2026-10-30
 
 #### Build your own `Programming Language`
 
-* [**JavaScript**: *The Super Tiny Compiler*](https://github.com/jamiebuilds/the-super-tiny-compiler) ⭐ 28,546 | 🐛 16 | 🌐 JavaScript | 📅 2024-02-19
+* [**JavaScript**: *The Super Tiny Compiler*](https://github.com/jamiebuilds/the-super-tiny-compiler) ⭐ 28,545 | 🐛 16 | 🌐 JavaScript | 📅 2024-02-19
 * [**C**: *A journey explaining how to build a compiler from scratch*](https://github.com/DoctorWkt/acwj) ⭐ 13,476 | 🐛 25 | 🌐 C | 📅 2026-06-06
-* [**(any)**: *mal - Make a Lisp*](https://github.com/kanaka/mal#mal---make-a-lisp) ⭐ 10,768 | 🐛 58 | 🌐 Assembly | 📅 2025-10-22
+* [**(any)**: *mal - Make a Lisp*](https://github.com/kanaka/mal#mal---make-a-lisp) ⭐ 10,770 | 🐛 58 | 🌐 Assembly | 📅 2025-10-22
 * [**C**: *C interpreter that interprets itself.*](https://github.com/lotabout/write-a-C-interpreter) ⭐ 4,405 | 🐛 11 | 🌐 C | 📅 2025-11-22
 * [**Assembly**: *Jonesforth*](https://github.com/nornagon/jonesforth/blob/master/jonesforth.S) ⭐ 1,137 | 🐛 4 | 🌐 Assembly | 📅 2023-04-04
 * [**Go**: *The Super Tiny Compiler*](https://github.com/hazbo/the-super-tiny-compiler) ⭐ 691 | 🐛 1 | 🌐 Go | 📅 2021-12-02
 * [**C**: *A C & x86 version of the "Let's Build a Compiler" by Jack Crenshaw*](https://github.com/lotabout/Let-s-build-a-compiler) ⭐ 588 | 🐛 0 | 🌐 C | 📅 2018-10-19
-* [**JavaScript**: *The Super Tiny Interpreter*](https://github.com/keyanzhang/the-super-tiny-interpreter) ⭐ 183 | 🐛 0 | 🌐 JavaScript | 📅 2016-08-03
+* [**JavaScript**: *The Super Tiny Interpreter*](https://github.com/keyz/the-super-tiny-interpreter) ⭐ 183 | 🐛 0 | 🌐 JavaScript | 📅 2016-08-03
 * [**C**: *Baby's First Garbage Collector*](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
 * [**C**: *Build Your Own Lisp: Learn C and build your own programming language in 1000 lines of code*](http://www.buildyourownlisp.com/)
 * [**C**: *Writing a Simple Garbage Collector in C*](http://maplant.com/gc.html)
+* [**C**: *Crafting Interpreters: A Bytecode Virtual Machine*](http://craftinginterpreters.com/a-bytecode-virtual-machine.html)
+* [**C**: *Compiling a Lisp* (Lisp compiler to x86-64 machine code)](https://bernsteinbear.com/blog/compiling-a-lisp-0/)
 * [**C++**: *Writing Your Own Toy Compiler Using Flex*](https://gnuu.org/2009/09/18/writing-your-own-toy-compiler/)
 * [**C++**: *How to Create a Compiler*](https://www.youtube.com/watch?v=eF9qWbuQLuw) \[video]
 * [**C++**: *Kaleidoscope: Implementing a Language with LLVM*](https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html)
+* [**C++ & OCaml**: *How I wrote my own "proper" programming language in OCaml and C++*](https://mukulrathi.com/create-your-own-programming-language/intro-to-compiler/)
 * [**F#**: *Understanding Parser Combinators*](https://fsharpforfunandprofit.com/posts/understanding-parser-combinators/)
 * [**Elixir**: *Demystifying compilers by writing your own*](https://www.youtube.com/watch?v=zMJYoYwOCd4) \[video]
 * [**Go**: *Lexical Scanning in Go*](https://www.youtube.com/watch?v=HxaD_trXwRE) \[video]
 * [**Haskell**: *Let's Build a Compiler*](https://g-ford.github.io/cradle/)
-* [**Haskell**: *Write You a Haskell*](http://dev.stephendiehl.com/fun/)
+* [**Haskell**: *Write You a Haskell*](https://web.archive.org/web/2020/https://dev.stephendiehl.com/fun/)
 * [**Haskell**: *Write Yourself a Scheme in 48 Hours*](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
 * [**Haskell**: *Write You A Scheme*](https://www.wespiser.com/writings/wyas/home.html)
-* [**Java**: *Crafting interpreters: A handbook for making programming languages*](http://www.craftinginterpreters.com/)
+* [**Java**: *Crafting Interpreters: A Tree-Walk Interpreter*](http://craftinginterpreters.com/a-tree-walk-interpreter.html)
 * [**Java**: *Creating JVM Language*](http://jakubdziworski.github.io/categories.html#Enkel-ref)
 * [**JavaScript**: *Little Lisp interpreter*](https://maryrosecook.com/blog/post/little-lisp-interpreter)
 * [**JavaScript**: *How to implement a programming language in JavaScript*](http://lisperator.net/pltut/)
@@ -370,7 +383,7 @@ It's a great way to learn.
 
 #### Build your own `Search Engine`
 
-* [**CSS**: *A search engine in CSS*](https://stories.algolia.com/a-search-engine-in-css-b5ec4e902e97)
+* [**CSS**: *How we built the real demo for our fake CSS API client*](https://www.algolia.com/blog/engineering/real-demo-fake-css-api-client)
 * [**Python**: *Building a search engine using Redis and redis-py*](http://www.dr-josiah.com/2010/07/building-search-engine-using-redis-and.html)
 * [**Python**: *Building a Vector Space Indexing Engine in Python*](https://boyter.org/2010/08/build-vector-space-search-engine-python/)
 * [**Python**: *Building A Python-Based Search Engine*](https://www.youtube.com/watch?v=cY7pE7vX6MU) \[video]
@@ -402,7 +415,7 @@ It's a great way to learn.
 * [**Python**: *Python Tutorial: Make Your Own Text Editor*](https://www.youtube.com/watch?v=xqDonHEYPgA) \[video]
 * [**Python**: *Create a Simple Python Text Editor!*](http://www.instructables.com/id/Create-a-Simple-Python-Text-Editor/)
 * [**Ruby**: *Build a Collaborative Text Editor Using Rails*](https://blog.aha.io/text-editor/)
-* [**Rust**: *Hecto: Build your own text editor in Rust* ](https://www.flenker.blog/hecto/)
+* [**Rust**: *Hecto: Build your own text editor in Rust* ](https://philippflenker.com/hecto/)
 
 #### Build your own `Visual Recognition System`
 
@@ -420,8 +433,8 @@ It's a great way to learn.
 
 #### Build your own `Web Server`
 
-* [**Node.js**: *lets-build-express*](https://github.com/antoaravinth/lets-build-express) ⭐ 1,065 | 🐛 7 | 🌐 JavaScript | 📅 2024-12-06
-* [**C#**: *Writing a Web Server from Scratch*](https://www.codeproject.com/Articles/859108/Writing-a-Web-Server-from-Scratch)
+* [**Node.js**: *lets-build-express*](https://github.com/antsmartian/lets-build-express) ⭐ 1,065 | 🐛 7 | 🌐 JavaScript | 📅 2024-12-06
+* [**C#**: *Writing a Web Server from Scratch*](https://web.archive.org/web/2017/https://www.codeproject.com/Articles/859108/Writing-a-Web-Server-from-Scratch)
 * [**Node.js**: *Build Your Own Web Server From Scratch In JavaScript*](https://build-your-own.org/webserver/)
 * [**Node.js**: *Let's code a web server from scratch with NodeJS Streams*](https://www.codementor.io/@ziad-saab/let-s-code-a-web-server-from-scratch-with-nodejs-streams-h4uc9utji)
 * [**PHP**: *Writing a webserver in pure PHP*](http://station.clancats.com/writing-a-webserver-in-pure-php/)
@@ -434,13 +447,13 @@ It's a great way to learn.
 
 #### Uncategorized
 
-* [**JavaScript**: *JavaScript Algorithms and Data Structures*](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,728 | 🐛 439 | 🌐 JavaScript | 📅 2026-07-26
-* [**C++**: *Build your own VR headset for $200*](https://github.com/relativty/Relativ) ⭐ 7,277 | 🐛 29 | 🌐 C++ | 📅 2024-07-21
+* [**JavaScript**: *JavaScript Algorithms and Data Structures*](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,734 | 🐛 439 | 🌐 JavaScript | 📅 2026-07-26
+* [**C++**: *Build your own VR headset for $200*](https://github.com/relativty/Relativty) ⭐ 7,278 | 🐛 29 | 🌐 C++ | 📅 2024-07-21
 * [**Rust**: *Building a DNS server in Rust*](https://github.com/EmilHernvall/dnsguide/blob/master/README.md) ⭐ 4,703 | 🐛 7 | 📅 2025-04-28
 * [**C**: *Learn how to write a hash table in C*](https://github.com/jamesroutley/write-a-hash-table) ⭐ 4,402 | 🐛 33 | 📅 2023-12-16
 * [**Lua**: *Building a CDN from Scratch to Learn about CDN*](https://github.com/leandromoreira/cdn-up-and-running) ⭐ 3,716 | 🐛 2 | 🌐 Lua | 📅 2026-01-21
 * [**JavaScript**: *Build Your Own Module Bundler - Minipack*](https://github.com/ronami/minipack) ⭐ 3,302 | 🐛 12 | 🌐 JavaScript | 📅 2021-02-14
-* [**TypeScript**: *Tiny Package Manager: Learns how npm or Yarn works*](https://github.com/g-plane/tiny-package-manager) ⭐ 485 | 🐛 0 | 🌐 TypeScript | 📅 2024-11-29
+* [**TypeScript**: *Tiny Package Manager: Learn how npm or Yarn works*](https://github.com/g-plane/tiny-package-manager) ⭐ 485 | 🐛 0 | 🌐 TypeScript | 📅 2024-11-29
 * [**Go**: *Video Encoding from Scratch*](https://github.com/kevmo314/codec-from-scratch) ⭐ 472 | 🐛 1 | 🌐 Go | 📅 2025-03-07
 * [**Kotlin**: *Build Your Own Cache*](https://github.com/kezhenxu94/cache-lite) ⭐ 169 | 🐛 1 | 📅 2021-04-27
 * [**Python**: *JSON Decoding Algorithm*](https://github.com/cheery/json-algorithm) ⭐ 117 | 🐛 0 | 🌐 Python | 📅 2016-08-28
@@ -451,7 +464,7 @@ It's a great way to learn.
 * [**C**: *The very basics of a terminal emulator*](https://www.uninformativ.de/blog/postings/2018-02-24/0/POSTING-en.html)
 * [**C**: *Write a System Call*](https://brennan.io/2016/11/14/kernel-dev-ep3/)
 * [**C**: *Sol - An MQTT broker from scratch*](https://codepr.github.io/posts/sol-mqtt-broker)
-* [**C++**: *How X Window Managers work and how to write one*](https://seasonofcode.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i.html)
+* [**C++**: *How X Window Managers work and how to write one*](https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i/)
 * [**C++**: *Writing a Linux Debugger*](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
 * [**C++**: *How a 64k intro is made*](http://www.lofibucket.com/articles/64k_intro.html)
 * [**C++**: *Make your own Game Engine*](https://www.youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT)
@@ -479,7 +492,7 @@ It's a great way to learn.
 * [**Node.js**: *Build a DNS Server in Node.js*](https://engineerhead.github.io/dns-server/)
 * [**Node.js**: *Build a Synchronization Engine with Node.js and Y.js*](https://greenvitriol.com/posts/sync-engine-for-everyone)
 * [**PHP**: *Write your own MVC from scratch in PHP* ](https://chaitya62.github.io/2018/04/29/Writing-your-own-MVC-from-Scratch-in-PHP.html)
-* [**PHP**: *Make your own blog*](https://ilovephp.jondh.me.uk/en/tutorial/make-your-own-blog)
+* [**PHP**: *Make your own blog*](https://web.archive.org/web/20260829062331/https://ilovephp.jondh.me.uk/en/tutorial/make-your-own-blog)
 * [**PHP**: *Modern PHP Without a Framework*](https://kevinsmith.io/modern-php-without-a-framework)
 * [**PHP**: *Code a Web Search Engine in PHP*](https://boyter.org/2013/01/code-for-a-search-engine-in-php-part-1/)
 * [**Python**: *Build a Deep Learning Library*](https://www.youtube.com/watch?v=o64FV-ez6Gw) \[video]
@@ -510,4 +523,4 @@ This repository is the work of [many contributors](https://github.com/codecrafte
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
