@@ -21,7 +21,7 @@
                 "open_issues": 4,
                 "owner": "ssloy",
                 "repo": "tinyrenderer",
-                "stars": 24532,
+                "stars": 24539,
                 "topics": [
                   "3d",
                   "3d-graphics",
@@ -70,7 +70,7 @@
                 "open_issues": 6,
                 "owner": "rasbt",
                 "repo": "LLMs-from-scratch",
-                "stars": 108546,
+                "stars": 108600,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -111,7 +111,7 @@
                 "open_issues": 46,
                 "owner": "langchain-ai",
                 "repo": "rag-from-scratch",
-                "stars": 10113,
+                "stars": 10125,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -132,7 +132,7 @@
                 "open_issues": 2,
                 "owner": "rasbt",
                 "repo": "reasoning-from-scratch",
-                "stars": 5850,
+                "stars": 5860,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -271,6 +271,55 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Scala: A Practical Guide to Building a Cost-Based Query Planner",
+              "description": "tuannh982/query-planner-guide",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "build your own query planner",
+                "homepage": null,
+                "id": 682891716,
+                "language": "Scala",
+                "license": null,
+                "last_commit": "2026-04-22T08:13:02Z",
+                "open_issues": 1,
+                "owner": "tuannh982",
+                "repo": "query-planner-guide",
+                "stars": 58,
+                "topics": [
+                  "awesome",
+                  "cascades",
+                  "database",
+                  "database-design",
+                  "database-management",
+                  "from-scratch",
+                  "good-first-issue",
+                  "guide",
+                  "help-wanted",
+                  "looking-for-contributors",
+                  "query-engine",
+                  "query-optimization",
+                  "query-optimizer",
+                  "query-planner",
+                  "query-planning",
+                  "scala",
+                  "scratch",
+                  "sql",
+                  "tutorial",
+                  "volcano"
+                ]
+              },
+              "first_seen": "2026-11-18T12:16:19.188Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Build your own"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Java: Building Your Own Kafka-like System From Scratch: A Step-by-Step Guide",
               "description": "buildthingsuseful/build-your-own-kafka",
               "children": [],
@@ -285,7 +334,7 @@
                 "open_issues": 2,
                 "owner": "buildthingsuseful",
                 "repo": "build-your-own-kafka",
-                "stars": 171,
+                "stars": 173,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -313,7 +362,7 @@
                 "open_issues": 15,
                 "owner": "p8952",
                 "repo": "bocker",
-                "stars": 12717,
+                "stars": 12722,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -355,7 +404,7 @@
                 "open_issues": 1,
                 "owner": "tonybaloney",
                 "repo": "mocker",
-                "stars": 963,
+                "stars": 964,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -490,7 +539,7 @@
                 "open_issues": 0,
                 "owner": "roiamiel1",
                 "repo": "Build-Deep-Learning-From-Scratch",
-                "stars": 73,
+                "stars": 74,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -545,7 +594,7 @@
                 "open_issues": 129,
                 "owner": "cfenollosa",
                 "repo": "os-tutorial",
-                "stars": 30821,
+                "stars": 30828,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -566,7 +615,7 @@
                 "open_issues": 66,
                 "owner": "s-matyukevich",
                 "repo": "raspberry-pi-os",
-                "stars": 13965,
+                "stars": 13966,
                 "topics": [
                   "arm",
                   "armv8",
@@ -603,7 +652,7 @@
                 "open_issues": 2,
                 "owner": "jserv",
                 "repo": "mini-arm-os",
-                "stars": 1264,
+                "stars": 1263,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -631,7 +680,7 @@
                 "open_issues": 84,
                 "owner": "BrunoLevy",
                 "repo": "learn-fpga",
-                "stars": 3777,
+                "stars": 3778,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -659,7 +708,7 @@
                 "open_issues": 16,
                 "owner": "jamiebuilds",
                 "repo": "the-super-tiny-compiler",
-                "stars": 28545,
+                "stars": 28547,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -680,7 +729,7 @@
                 "open_issues": 25,
                 "owner": "DoctorWkt",
                 "repo": "acwj",
-                "stars": 13476,
+                "stars": 13481,
                 "topics": [
                   "c",
                   "compiler",
@@ -706,7 +755,7 @@
                 "open_issues": 58,
                 "owner": "kanaka",
                 "repo": "mal",
-                "stars": 10770,
+                "stars": 10771,
                 "topics": [
                   "bash",
                   "c",
@@ -790,7 +839,7 @@
                 "open_issues": 1,
                 "owner": "hazbo",
                 "repo": "the-super-tiny-compiler",
-                "stars": 691,
+                "stars": 692,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -939,10 +988,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-07-26T02:43:08Z",
-                "open_issues": 439,
+                "open_issues": 440,
                 "owner": "trekhleb",
                 "repo": "javascript-algorithms",
-                "stars": 196734,
+                "stars": 196737,
                 "topics": [
                   "algorithm",
                   "algorithms",
@@ -1056,7 +1105,7 @@
                 "open_issues": 2,
                 "owner": "leandromoreira",
                 "repo": "cdn-up-and-running",
-                "stars": 3716,
+                "stars": 3717,
                 "topics": [
                   "cdn",
                   "docker-compose",
@@ -1239,7 +1288,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T12:29:21.945Z",
+    "last_updated": "2026-11-18T12:16:19.188Z",
     "original_repository_info": {
       "archived": false,
       "description": "Master programming by recreating your favorite technologies from scratch.",
@@ -1247,11 +1296,11 @@
       "id": 132750724,
       "language": "Markdown",
       "license": null,
-      "last_commit": "2026-11-17T08:53:01Z",
-      "open_issues": 646,
+      "last_commit": "2026-11-18T05:13:02Z",
+      "open_issues": 633,
       "owner": "codecrafters-io",
       "repo": "build-your-own-x",
-      "stars": 563301,
+      "stars": 563598,
       "topics": [
         "awesome-list",
         "free",
@@ -1261,7 +1310,7 @@
         "tutorials"
       ]
     },
-    "original_repository_sha": "ebae1430d28d52dbe12e189ffc7507e08d8c62ca",
+    "original_repository_sha": "ddc98a8a71f20f2bf5643d96c4aa23620425b9c9",
     "enhanced_repository": "enhansome/enhansome-build-your-own-x",
     "enhanced_repository_description": null,
     "title": "Awesome build your own x with stars"
