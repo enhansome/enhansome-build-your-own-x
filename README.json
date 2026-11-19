@@ -21,7 +21,7 @@
                 "open_issues": 4,
                 "owner": "ssloy",
                 "repo": "tinyrenderer",
-                "stars": 24539,
+                "stars": 24544,
                 "topics": [
                   "3d",
                   "3d-graphics",
@@ -67,10 +67,10 @@
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-09T14:59:09Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "rasbt",
                 "repo": "LLMs-from-scratch",
-                "stars": 108600,
+                "stars": 108653,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -111,7 +111,7 @@
                 "open_issues": 46,
                 "owner": "langchain-ai",
                 "repo": "rag-from-scratch",
-                "stars": 10125,
+                "stars": 10133,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -129,10 +129,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-02T15:24:04Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "rasbt",
                 "repo": "reasoning-from-scratch",
-                "stars": 5860,
+                "stars": 5867,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -156,6 +156,40 @@
                 ]
               },
               "first_seen": "2026-11-17T12:29:21.945Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Python: Building a Coding Agent From Scratch",
+              "description": "decodingai-magazine/building-a-coding-agent-from-scratch-course",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Learn harness engineering by building Claude Code from scratch. Free, open-source course: 8 articles, 6 videos, 1 codebase.",
+                "homepage": null,
+                "id": 1274452075,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-24T08:43:07Z",
+                "open_issues": 7,
+                "owner": "decodingai-magazine",
+                "repo": "building-a-coding-agent-from-scratch-course",
+                "stars": 1212,
+                "topics": [
+                  "ai-agent",
+                  "ai-coding-assistant",
+                  "claude-code",
+                  "coding-agent",
+                  "course",
+                  "curated-list",
+                  "harness-engineering",
+                  "kitaru",
+                  "llm-evals",
+                  "modal",
+                  "opik",
+                  "pydantic-ai"
+                ]
+              },
+              "first_seen": "2026-11-19T12:10:40.845Z"
             }
           ],
           "description": null,
@@ -383,7 +417,7 @@
                 "open_issues": 20,
                 "owner": "Fewbytes",
                 "repo": "rubber-docker",
-                "stars": 3256,
+                "stars": 3257,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -432,7 +466,7 @@
                 "open_issues": 29,
                 "owner": "pomber",
                 "repo": "didact",
-                "stars": 6765,
+                "stars": 6766,
                 "topics": [
                   "diy-guide",
                   "javascript",
@@ -594,7 +628,7 @@
                 "open_issues": 129,
                 "owner": "cfenollosa",
                 "repo": "os-tutorial",
-                "stars": 30828,
+                "stars": 30830,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -615,7 +649,7 @@
                 "open_issues": 66,
                 "owner": "s-matyukevich",
                 "repo": "raspberry-pi-os",
-                "stars": 13966,
+                "stars": 13967,
                 "topics": [
                   "arm",
                   "armv8",
@@ -652,7 +686,7 @@
                 "open_issues": 2,
                 "owner": "jserv",
                 "repo": "mini-arm-os",
-                "stars": 1263,
+                "stars": 1264,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -680,7 +714,7 @@
                 "open_issues": 84,
                 "owner": "BrunoLevy",
                 "repo": "learn-fpga",
-                "stars": 3778,
+                "stars": 3780,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -708,7 +742,7 @@
                 "open_issues": 16,
                 "owner": "jamiebuilds",
                 "repo": "the-super-tiny-compiler",
-                "stars": 28547,
+                "stars": 28546,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -818,7 +852,7 @@
                 "open_issues": 4,
                 "owner": "nornagon",
                 "repo": "jonesforth",
-                "stars": 1137,
+                "stars": 1138,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -991,7 +1025,7 @@
                 "open_issues": 440,
                 "owner": "trekhleb",
                 "repo": "javascript-algorithms",
-                "stars": 196737,
+                "stars": 196742,
                 "topics": [
                   "algorithm",
                   "algorithms",
@@ -1079,7 +1113,7 @@
                 "open_issues": 33,
                 "owner": "jamesroutley",
                 "repo": "write-a-hash-table",
-                "stars": 4402,
+                "stars": 4401,
                 "topics": [
                   "c",
                   "data-structures",
@@ -1288,7 +1322,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T12:16:19.188Z",
+    "last_updated": "2026-11-19T12:10:40.845Z",
     "original_repository_info": {
       "archived": false,
       "description": "Master programming by recreating your favorite technologies from scratch.",
@@ -1296,11 +1330,11 @@
       "id": 132750724,
       "language": "Markdown",
       "license": null,
-      "last_commit": "2026-11-18T05:13:02Z",
+      "last_commit": "2026-11-19T05:32:02Z",
       "open_issues": 633,
       "owner": "codecrafters-io",
       "repo": "build-your-own-x",
-      "stars": 563598,
+      "stars": 563817,
       "topics": [
         "awesome-list",
         "free",
@@ -1310,7 +1344,7 @@
         "tutorials"
       ]
     },
-    "original_repository_sha": "ddc98a8a71f20f2bf5643d96c4aa23620425b9c9",
+    "original_repository_sha": "94e4be4102452119008fe47199f3cb915abe0c50",
     "enhanced_repository": "enhansome/enhansome-build-your-own-x",
     "enhanced_repository_description": null,
     "title": "Awesome build your own x with stars"

@@ -46,7 +46,7 @@ It's a great way to learn.
 
 #### Build your own `3D Renderer`
 
-* [**C++**: *How OpenGL works: software rendering in 500 lines of code*](https://github.com/ssloy/tinyrenderer/wiki) ⭐ 24,539 | 🐛 4 | 🌐 C++ | 📅 2026-07-29
+* [**C++**: *How OpenGL works: software rendering in 500 lines of code*](https://github.com/ssloy/tinyrenderer/wiki) ⭐ 24,544 | 🐛 4 | 🌐 C++ | 📅 2026-07-29
 * [**C++**: *Introduction to Ray Tracing: a Simple Method for Creating 3D Images*](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing/how-does-it-work)
 * [**C++**: *Raycasting engine of Wolfenstein 3D*](http://lodev.org/cgtutor/raycasting.html)
 * [**C++**: *Physically Based Rendering:From Theory To Implementation*](https://www.pbr-book.org/)
@@ -61,9 +61,10 @@ It's a great way to learn.
 
 #### Build your own `AI Model`
 
-* [**Python**: *A Large Language Model (LLM)*](https://github.com/rasbt/LLMs-from-scratch) ⭐ 108,600 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2026-11-09
-* [**Python**: *RAG for Document Search*](https://github.com/langchain-ai/rag-from-scratch) ⭐ 10,125 | 🐛 46 | 🌐 Jupyter Notebook | 📅 2025-06-26
-* [**Python**: *A Reasoning Model (LLM with inference-time scaling, GRPO and distillation)*](https://github.com/rasbt/reasoning-from-scratch) ⭐ 5,860 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-11-02
+* [**Python**: *A Large Language Model (LLM)*](https://github.com/rasbt/LLMs-from-scratch) ⭐ 108,653 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2026-11-09
+* [**Python**: *RAG for Document Search*](https://github.com/langchain-ai/rag-from-scratch) ⭐ 10,133 | 🐛 46 | 🌐 Jupyter Notebook | 📅 2025-06-26
+* [**Python**: *A Reasoning Model (LLM with inference-time scaling, GRPO and distillation)*](https://github.com/rasbt/reasoning-from-scratch) ⭐ 5,867 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-11-02
+* [**Python**: *Building a Coding Agent From Scratch*](https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course) ⭐ 1,212 | 🐛 7 | 🌐 Python | 📅 2026-10-24
 * [**Python**: *Diffusion Models for Image Generation*](https://huggingface.co/learn/diffusion-course/en/unit1/3)
 * [**Python**: *An LLM Evaluation Harness (test cases, runner, rule-based and LLM judges)*](https://machinelearningmastery.com/building-a-custom-llm-evaluation-harness-in-python-from-scratch/)
 * [**Python**: *Sparse Autoencoders (toy models of superposition, then train your own SAE)*](https://learn.arena.education/chapter1_transformer_interp/34_superposition/)
@@ -164,7 +165,7 @@ It's a great way to learn.
 #### Build your own `Docker`
 
 * [**Shell**: *Docker implemented in around 100 lines of bash*](https://github.com/p8952/bocker) ⭐ 12,722 | 🐛 15 | 🌐 Shell | 📅 2017-12-09
-* [**Python**: *A workshop on Linux containers: Rebuild Docker from Scratch*](https://github.com/Fewbytes/rubber-docker) ⭐ 3,256 | 🐛 20 | 🌐 Python | 📅 2024-07-28
+* [**Python**: *A workshop on Linux containers: Rebuild Docker from Scratch*](https://github.com/Fewbytes/rubber-docker) ⭐ 3,257 | 🐛 20 | 🌐 Python | 📅 2024-07-28
 * [**Python**: *A proof-of-concept imitation of Docker, written in 100% Python*](https://github.com/tonybaloney/mocker) ⭐ 964 | 🐛 1 | 🌐 Python | 📅 2021-07-01
 * [**C**: *Linux containers in 500 lines of code*](https://blog.lizzie.io/linux-containers-in-500-loc.html)
 * [**Go**: *Build Your Own Container Using Less than 100 Lines of Go*](https://www.infoq.com/articles/build-a-container-golang)
@@ -188,7 +189,7 @@ It's a great way to learn.
 
 #### Build your own `Front-end Framework / Library`
 
-* [**JavaScript**: *A DIY guide to build your own React*](https://github.com/pomber/didact) ⭐ 6,765 | 🐛 29 | 🌐 JavaScript | 📅 2026-01-31
+* [**JavaScript**: *A DIY guide to build your own React*](https://github.com/pomber/didact) ⭐ 6,766 | 🐛 29 | 🌐 JavaScript | 📅 2026-01-31
 * [**JavaScript**: *WTF is JSX (Let's Build a JSX Renderer)*](https://jasonformat.com/wtf-is-jsx/)
 * [**JavaScript**: *Building React From Scratch*](https://www.youtube.com/watch?v=_MAD4Oly9yg) \[video]
 * [**JavaScript**: *Gooact: React in 160 lines of JavaScript*](https://medium.com/@sweetpalma/gooact-react-in-160-lines-of-javascript-44e0742ad60f)
@@ -292,9 +293,9 @@ It's a great way to learn.
 
 #### Build your own `Operating System`
 
-* [**C**: *How to create an OS from scratch*](https://github.com/cfenollosa/os-tutorial) ⭐ 30,828 | 🐛 129 | 🌐 C | 📅 2026-02-04
-* [**C**: *Learning operating system development using Linux kernel and Raspberry Pi*](https://github.com/s-matyukevich/raspberry-pi-os) ⭐ 13,966 | 🐛 66 | 🌐 C | 📅 2024-03-29
-* [**C**: *Build a minimal multi-tasking kernel for ARM from scratch*](https://github.com/jserv/mini-arm-os) ⭐ 1,263 | 🐛 2 | 🌐 C | 📅 2025-12-14
+* [**C**: *How to create an OS from scratch*](https://github.com/cfenollosa/os-tutorial) ⭐ 30,830 | 🐛 129 | 🌐 C | 📅 2026-02-04
+* [**C**: *Learning operating system development using Linux kernel and Raspberry Pi*](https://github.com/s-matyukevich/raspberry-pi-os) ⭐ 13,967 | 🐛 66 | 🌐 C | 📅 2024-03-29
+* [**C**: *Build a minimal multi-tasking kernel for ARM from scratch*](https://github.com/jserv/mini-arm-os) ⭐ 1,264 | 🐛 2 | 🌐 C | 📅 2025-12-14
 * [**Assembly**: *Writing a Tiny x86 Bootloader*](http://joebergeron.io/posts/post_two.html)
 * [**Assembly**: *Baking Pi – Operating Systems Development*](http://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/index.html)
 * [**Assembly**: *\[Part 1\] Simple Bootloader for Linux*](https://medium.com/@7amza.dridi/part-1-simple-bootloader-for-linux-6fec2ba20346)
@@ -326,15 +327,15 @@ It's a great way to learn.
 
 #### Build your own `Processor`
 
-* [**Verilog**: *From Blinker to RISC-V*](https://github.com/BrunoLevy/learn-fpga/tree/master/FemtoRV/TUTORIALS/FROM_BLINKER_TO_RISCV) ⭐ 3,778 | 🐛 84 | 🌐 C++ | 📅 2026-10-30
+* [**Verilog**: *From Blinker to RISC-V*](https://github.com/BrunoLevy/learn-fpga/tree/master/FemtoRV/TUTORIALS/FROM_BLINKER_TO_RISCV) ⭐ 3,780 | 🐛 84 | 🌐 C++ | 📅 2026-10-30
 
 #### Build your own `Programming Language`
 
-* [**JavaScript**: *The Super Tiny Compiler*](https://github.com/jamiebuilds/the-super-tiny-compiler) ⭐ 28,547 | 🐛 16 | 🌐 JavaScript | 📅 2024-02-19
+* [**JavaScript**: *The Super Tiny Compiler*](https://github.com/jamiebuilds/the-super-tiny-compiler) ⭐ 28,546 | 🐛 16 | 🌐 JavaScript | 📅 2024-02-19
 * [**C**: *A journey explaining how to build a compiler from scratch*](https://github.com/DoctorWkt/acwj) ⭐ 13,481 | 🐛 25 | 🌐 C | 📅 2026-06-06
 * [**(any)**: *mal - Make a Lisp*](https://github.com/kanaka/mal#mal---make-a-lisp) ⭐ 10,771 | 🐛 58 | 🌐 Assembly | 📅 2025-10-22
 * [**C**: *C interpreter that interprets itself.*](https://github.com/lotabout/write-a-C-interpreter) ⭐ 4,405 | 🐛 11 | 🌐 C | 📅 2025-11-22
-* [**Assembly**: *Jonesforth*](https://github.com/nornagon/jonesforth/blob/master/jonesforth.S) ⭐ 1,137 | 🐛 4 | 🌐 Assembly | 📅 2023-04-04
+* [**Assembly**: *Jonesforth*](https://github.com/nornagon/jonesforth/blob/master/jonesforth.S) ⭐ 1,138 | 🐛 4 | 🌐 Assembly | 📅 2023-04-04
 * [**Go**: *The Super Tiny Compiler*](https://github.com/hazbo/the-super-tiny-compiler) ⭐ 692 | 🐛 1 | 🌐 Go | 📅 2021-12-02
 * [**C**: *A C & x86 version of the "Let's Build a Compiler" by Jack Crenshaw*](https://github.com/lotabout/Let-s-build-a-compiler) ⭐ 588 | 🐛 0 | 🌐 C | 📅 2018-10-19
 * [**JavaScript**: *The Super Tiny Interpreter*](https://github.com/keyz/the-super-tiny-interpreter) ⭐ 183 | 🐛 0 | 🌐 JavaScript | 📅 2016-08-03
@@ -455,10 +456,10 @@ It's a great way to learn.
 
 #### Uncategorized
 
-* [**JavaScript**: *JavaScript Algorithms and Data Structures*](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,737 | 🐛 440 | 🌐 JavaScript | 📅 2026-07-26
+* [**JavaScript**: *JavaScript Algorithms and Data Structures*](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,742 | 🐛 440 | 🌐 JavaScript | 📅 2026-07-26
 * [**C++**: *Build your own VR headset for $200*](https://github.com/relativty/Relativty) ⭐ 7,278 | 🐛 29 | 🌐 C++ | 📅 2024-07-21
 * [**Rust**: *Building a DNS server in Rust*](https://github.com/EmilHernvall/dnsguide/blob/master/README.md) ⭐ 4,703 | 🐛 7 | 📅 2025-04-28
-* [**C**: *Learn how to write a hash table in C*](https://github.com/jamesroutley/write-a-hash-table) ⭐ 4,402 | 🐛 33 | 📅 2023-12-16
+* [**C**: *Learn how to write a hash table in C*](https://github.com/jamesroutley/write-a-hash-table) ⭐ 4,401 | 🐛 33 | 📅 2023-12-16
 * [**Lua**: *Building a CDN from Scratch to Learn about CDN*](https://github.com/leandromoreira/cdn-up-and-running) ⭐ 3,717 | 🐛 2 | 🌐 Lua | 📅 2026-01-21
 * [**JavaScript**: *Build Your Own Module Bundler - Minipack*](https://github.com/ronami/minipack) ⭐ 3,302 | 🐛 12 | 🌐 JavaScript | 📅 2021-02-14
 * [**TypeScript**: *Tiny Package Manager: Learn how npm or Yarn works*](https://github.com/g-plane/tiny-package-manager) ⭐ 485 | 🐛 0 | 🌐 TypeScript | 📅 2024-11-29
@@ -533,4 +534,4 @@ This repository is the work of [many contributors](https://github.com/codecrafte
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
