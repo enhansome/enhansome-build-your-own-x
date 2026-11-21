@@ -21,7 +21,7 @@
                 "open_issues": 4,
                 "owner": "ssloy",
                 "repo": "tinyrenderer",
-                "stars": 24552,
+                "stars": 24563,
                 "topics": [
                   "3d",
                   "3d-graphics",
@@ -66,11 +66,11 @@
                 "id": 669879380,
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-09T14:59:09Z",
-                "open_issues": 8,
+                "last_commit": "2026-11-20T18:10:48Z",
+                "open_issues": 9,
                 "owner": "rasbt",
                 "repo": "LLMs-from-scratch",
-                "stars": 108698,
+                "stars": 108739,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -111,7 +111,7 @@
                 "open_issues": 46,
                 "owner": "langchain-ai",
                 "repo": "rag-from-scratch",
-                "stars": 10136,
+                "stars": 10138,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -132,7 +132,7 @@
                 "open_issues": 3,
                 "owner": "rasbt",
                 "repo": "reasoning-from-scratch",
-                "stars": 5874,
+                "stars": 5884,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -160,7 +160,7 @@
             {
               "node_type": "item",
               "title": "Python: Building a Coding Agent From Scratch",
-              "description": "decodingai-magazine/building-a-coding-agent-from-scratch-course",
+              "description": "itsdecodingai/building-a-coding-agent-from-scratch-course",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -171,9 +171,9 @@
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-24T08:43:07Z",
                 "open_issues": 7,
-                "owner": "decodingai-magazine",
+                "owner": "itsdecodingai",
                 "repo": "building-a-coding-agent-from-scratch-course",
-                "stars": 1219,
+                "stars": 1229,
                 "topics": [
                   "ai-agent",
                   "ai-coding-assistant",
@@ -573,7 +573,7 @@
                 "open_issues": 0,
                 "owner": "roiamiel1",
                 "repo": "Build-Deep-Learning-From-Scratch",
-                "stars": 74,
+                "stars": 75,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -628,7 +628,7 @@
                 "open_issues": 129,
                 "owner": "cfenollosa",
                 "repo": "os-tutorial",
-                "stars": 30828,
+                "stars": 30832,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -714,7 +714,7 @@
                 "open_issues": 84,
                 "owner": "BrunoLevy",
                 "repo": "learn-fpga",
-                "stars": 3780,
+                "stars": 3785,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -763,7 +763,7 @@
                 "open_issues": 25,
                 "owner": "DoctorWkt",
                 "repo": "acwj",
-                "stars": 13481,
+                "stars": 13480,
                 "topics": [
                   "c",
                   "compiler",
@@ -852,7 +852,7 @@
                 "open_issues": 4,
                 "owner": "nornagon",
                 "repo": "jonesforth",
-                "stars": 1138,
+                "stars": 1139,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:41:04.127Z"
@@ -964,7 +964,7 @@
                 "open_issues": 8,
                 "owner": "tokenrove",
                 "repo": "build-your-own-shell",
-                "stars": 524,
+                "stars": 525,
                 "topics": [
                   "shell",
                   "tutorial",
@@ -1084,7 +1084,7 @@
                 "open_issues": 7,
                 "owner": "EmilHernvall",
                 "repo": "dnsguide",
-                "stars": 4702,
+                "stars": 4703,
                 "topics": [
                   "dns",
                   "dns-server",
@@ -1322,7 +1322,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T12:12:25.190Z",
+    "last_updated": "2026-11-21T11:48:32.797Z",
     "original_repository_info": {
       "archived": false,
       "description": "Master programming by recreating your favorite technologies from scratch.",
@@ -1331,10 +1331,10 @@
       "language": "Markdown",
       "license": null,
       "last_commit": "2026-11-19T05:32:02Z",
-      "open_issues": 637,
+      "open_issues": 639,
       "owner": "codecrafters-io",
       "repo": "build-your-own-x",
-      "stars": 564057,
+      "stars": 564231,
       "topics": [
         "awesome-list",
         "free",
