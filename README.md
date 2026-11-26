@@ -46,7 +46,7 @@ It's a great way to learn.
 
 #### Build your own `3D Renderer`
 
-* [**C++**: *How OpenGL works: software rendering in 500 lines of code*](https://github.com/ssloy/tinyrenderer/wiki) ⭐ 24,581 | 🐛 4 | 🌐 C++ | 📅 2026-07-29
+* [**C++**: *How OpenGL works: software rendering in 500 lines of code*](https://github.com/ssloy/tinyrenderer/wiki) ⭐ 24,587 | 🐛 4 | 🌐 C++ | 📅 2026-07-29
 * [**C++**: *Introduction to Ray Tracing: a Simple Method for Creating 3D Images*](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing/how-does-it-work)
 * [**C++**: *Raycasting engine of Wolfenstein 3D*](http://lodev.org/cgtutor/raycasting.html)
 * [**C++**: *Physically Based Rendering:From Theory To Implementation*](https://www.pbr-book.org/)
@@ -61,10 +61,10 @@ It's a great way to learn.
 
 #### Build your own `AI Model`
 
-* [**Python**: *A Large Language Model (LLM)*](https://github.com/rasbt/LLMs-from-scratch) ⭐ 109,031 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2026-11-25
-* [**Python**: *RAG for Document Search*](https://github.com/langchain-ai/rag-from-scratch) ⭐ 10,179 | 🐛 46 | 🌐 Jupyter Notebook | 📅 2025-06-26
-* [**Python**: *A Reasoning Model (LLM with inference-time scaling, GRPO and distillation)*](https://github.com/rasbt/reasoning-from-scratch) ⭐ 5,904 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-11-24
-* [**Python**: *Building a Coding Agent From Scratch*](https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course) ⭐ 1,247 | 🐛 7 | 🌐 Python | 📅 2026-10-24
+* [**Python**: *A Large Language Model (LLM)*](https://github.com/rasbt/LLMs-from-scratch) ⭐ 109,080 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2026-11-25
+* [**Python**: *RAG for Document Search*](https://github.com/langchain-ai/rag-from-scratch) ⭐ 10,185 | 🐛 46 | 🌐 Jupyter Notebook | 📅 2025-06-26
+* [**Python**: *A Reasoning Model (LLM with inference-time scaling, GRPO and distillation)*](https://github.com/rasbt/reasoning-from-scratch) ⭐ 5,915 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-11-25
+* [**Python**: *Building a Coding Agent From Scratch*](https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course) ⭐ 1,252 | 🐛 7 | 🌐 Python | 📅 2026-10-24
 * [**Python**: *Diffusion Models for Image Generation*](https://huggingface.co/learn/diffusion-course/en/unit1/3)
 * [**Python**: *An LLM Evaluation Harness (test cases, runner, rule-based and LLM judges)*](https://machinelearningmastery.com/building-a-custom-llm-evaluation-harness-in-python-from-scratch/)
 * [**Python**: *Sparse Autoencoders (toy models of superposition, then train your own SAE)*](https://learn.arena.education/chapter1_transformer_interp/34_superposition/)
@@ -88,7 +88,7 @@ It's a great way to learn.
 
 #### Build your own `Blockchain / Cryptocurrency`
 
-* [**JavaScript**: *Creating a blockchain with JavaScript*](https://github.com/Savjee/SavjeeCoin) ⭐ 1,772 | 🐛 2 | 🌐 JavaScript | 📅 2025-11-21
+* [**JavaScript**: *Creating a blockchain with JavaScript*](https://github.com/Savjee/SavjeeCoin) ⭐ 1,773 | 🐛 2 | 🌐 JavaScript | 📅 2025-11-21
 * [**JavaScript**: *A cryptocurrency implementation in less than 1500 lines of code*](https://github.com/conradoqg/naivecoin) ⭐ 1,285 | 🐛 20 | 🌐 JavaScript | 📅 2024-05-28
 * [**JavaScript**: *Build your own Blockchain in JavaScript*](https://github.com/nambrot/blockchain-in-js) ⭐ 1,132 | 🐛 2 | 🌐 JavaScript | 📅 2022-03-17
 * [**Ruby**: *Programming Blockchains Step-by-Step (Manuscripts Book Edition)*](https://github.com/openblockchains/programming-blockchains) ⭐ 680 | 🐛 0 | 🌐 Ruby | 📅 2021-01-02
@@ -160,11 +160,11 @@ It's a great way to learn.
 
 #### Build your own `Distributed Systems`
 
-* [**Java**: *Building Your Own Kafka-like System From Scratch: A Step-by-Step Guide*](https://github.com/buildthingsuseful/build-your-own-kafka) ⭐ 176 | 🐛 2 | 🌐 Java | 📅 2025-03-13
+* [**Java**: *Building Your Own Kafka-like System From Scratch: A Step-by-Step Guide*](https://github.com/buildthingsuseful/build-your-own-kafka) ⭐ 177 | 🐛 2 | 🌐 Java | 📅 2025-03-13
 
 #### Build your own `Docker`
 
-* [**Shell**: *Docker implemented in around 100 lines of bash*](https://github.com/p8952/bocker) ⭐ 12,721 | 🐛 15 | 🌐 Shell | 📅 2017-12-09
+* [**Shell**: *Docker implemented in around 100 lines of bash*](https://github.com/p8952/bocker) ⭐ 12,720 | 🐛 15 | 🌐 Shell | 📅 2017-12-09
 * [**Python**: *A workshop on Linux containers: Rebuild Docker from Scratch*](https://github.com/Fewbytes/rubber-docker) ⭐ 3,256 | 🐛 20 | 🌐 Python | 📅 2024-07-28
 * [**Python**: *A proof-of-concept imitation of Docker, written in 100% Python*](https://github.com/tonybaloney/mocker) ⭐ 963 | 🐛 1 | 🌐 Python | 📅 2021-07-01
 * [**C**: *Linux containers in 500 lines of code*](https://blog.lizzie.io/linux-containers-in-500-loc.html)
@@ -189,7 +189,7 @@ It's a great way to learn.
 
 #### Build your own `Front-end Framework / Library`
 
-* [**JavaScript**: *A DIY guide to build your own React*](https://github.com/pomber/didact) ⭐ 6,766 | 🐛 29 | 🌐 JavaScript | 📅 2026-01-31
+* [**JavaScript**: *A DIY guide to build your own React*](https://github.com/pomber/didact) ⭐ 6,767 | 🐛 29 | 🌐 JavaScript | 📅 2026-01-31
 * [**JavaScript**: *WTF is JSX (Let's Build a JSX Renderer)*](https://jasonformat.com/wtf-is-jsx/)
 * [**JavaScript**: *Building React From Scratch*](https://www.youtube.com/watch?v=_MAD4Oly9yg) \[video]
 * [**JavaScript**: *Gooact: React in 160 lines of JavaScript*](https://medium.com/@sweetpalma/gooact-react-in-160-lines-of-javascript-44e0742ad60f)
@@ -270,7 +270,7 @@ It's a great way to learn.
 
 #### Build your own `Neural Network`
 
-* [**Python**: *Build Deep Learning From Scratch (reimplement PyTorch internals across 34 stages)*](https://github.com/roiamiel1/Build-Deep-Learning-From-Scratch) ⭐ 76 | 🐛 0 | 🌐 Python | 📅 2026-07-11
+* [**Python**: *Build Deep Learning From Scratch (reimplement PyTorch internals across 34 stages)*](https://github.com/roiamiel1/Build-Deep-Learning-From-Scratch) ⭐ 77 | 🐛 0 | 🌐 Python | 📅 2026-07-11
 * [**Python**: *SlowTorch: Implementation of PyTorch from the ground up in 100% pure Python*](https://github.com/xames3/slowtorch) ⭐ 25 | 🐛 4 | 🌐 Python | 📅 2025-11-07
 * [**C#**: *Neural Network OCR*](https://web.archive.org/web/2012/http://www.codeproject.com/Articles/11285/Neural-Network-OCR)
 * [**F#**: *Building Neural Networks in F#: Part 1*](https://medium.com/data-science/building-neural-networks-in-f-part-1-a2832ae972e6)
@@ -293,7 +293,7 @@ It's a great way to learn.
 
 #### Build your own `Operating System`
 
-* [**C**: *How to create an OS from scratch*](https://github.com/cfenollosa/os-tutorial) ⭐ 30,837 | 🐛 129 | 🌐 C | 📅 2026-02-04
+* [**C**: *How to create an OS from scratch*](https://github.com/cfenollosa/os-tutorial) ⭐ 30,836 | 🐛 129 | 🌐 C | 📅 2026-02-04
 * [**C**: *Learning operating system development using Linux kernel and Raspberry Pi*](https://github.com/s-matyukevich/raspberry-pi-os) ⭐ 13,964 | 🐛 66 | 🌐 C | 📅 2024-03-29
 * [**C**: *Build a minimal multi-tasking kernel for ARM from scratch*](https://github.com/jserv/mini-arm-os) ⭐ 1,266 | 🐛 2 | 🌐 C | 📅 2025-12-14
 * [**Assembly**: *Writing a Tiny x86 Bootloader*](http://joebergeron.io/posts/post_two.html)
@@ -327,13 +327,13 @@ It's a great way to learn.
 
 #### Build your own `Processor`
 
-* [**Verilog**: *From Blinker to RISC-V*](https://github.com/BrunoLevy/learn-fpga/tree/master/FemtoRV/TUTORIALS/FROM_BLINKER_TO_RISCV) ⭐ 3,797 | 🐛 84 | 🌐 C++ | 📅 2026-10-30
+* [**Verilog**: *From Blinker to RISC-V*](https://github.com/BrunoLevy/learn-fpga/tree/master/FemtoRV/TUTORIALS/FROM_BLINKER_TO_RISCV) ⭐ 3,798 | 🐛 84 | 🌐 C++ | 📅 2026-10-30
 
 #### Build your own `Programming Language`
 
-* [**JavaScript**: *The Super Tiny Compiler*](https://github.com/jamiebuilds/the-super-tiny-compiler) ⭐ 28,547 | 🐛 16 | 🌐 JavaScript | 📅 2024-02-19
+* [**JavaScript**: *The Super Tiny Compiler*](https://github.com/jamiebuilds/the-super-tiny-compiler) ⭐ 28,550 | 🐛 16 | 🌐 JavaScript | 📅 2024-02-19
 * [**C**: *A journey explaining how to build a compiler from scratch*](https://github.com/DoctorWkt/acwj) ⭐ 13,483 | 🐛 25 | 🌐 C | 📅 2026-06-06
-* [**(any)**: *mal - Make a Lisp*](https://github.com/kanaka/mal#mal---make-a-lisp) ⭐ 10,774 | 🐛 58 | 🌐 Assembly | 📅 2025-10-22
+* [**(any)**: *mal - Make a Lisp*](https://github.com/kanaka/mal#mal---make-a-lisp) ⭐ 10,775 | 🐛 58 | 🌐 Assembly | 📅 2025-10-22
 * [**C**: *C interpreter that interprets itself.*](https://github.com/lotabout/write-a-C-interpreter) ⭐ 4,405 | 🐛 11 | 🌐 C | 📅 2025-11-22
 * [**Assembly**: *Jonesforth*](https://github.com/nornagon/jonesforth/blob/master/jonesforth.S) ⭐ 1,139 | 🐛 4 | 🌐 Assembly | 📅 2023-04-04
 * [**Go**: *The Super Tiny Compiler*](https://github.com/hazbo/the-super-tiny-compiler) ⭐ 692 | 🐛 1 | 🌐 Go | 📅 2021-12-02
@@ -456,9 +456,9 @@ It's a great way to learn.
 
 #### Uncategorized
 
-* [**JavaScript**: *JavaScript Algorithms and Data Structures*](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,768 | 🐛 443 | 🌐 JavaScript | 📅 2026-07-26
+* [**JavaScript**: *JavaScript Algorithms and Data Structures*](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,769 | 🐛 444 | 🌐 JavaScript | 📅 2026-07-26
 * [**C++**: *Build your own VR headset for $200*](https://github.com/relativty/Relativty) ⭐ 7,279 | 🐛 29 | 🌐 C++ | 📅 2024-07-21
-* [**Rust**: *Building a DNS server in Rust*](https://github.com/EmilHernvall/dnsguide/blob/master/README.md) ⭐ 4,702 | 🐛 7 | 📅 2025-04-28
+* [**Rust**: *Building a DNS server in Rust*](https://github.com/EmilHernvall/dnsguide/blob/master/README.md) ⭐ 4,701 | 🐛 7 | 📅 2025-04-28
 * [**C**: *Learn how to write a hash table in C*](https://github.com/jamesroutley/write-a-hash-table) ⭐ 4,406 | 🐛 33 | 📅 2023-12-16
 * [**Lua**: *Building a CDN from Scratch to Learn about CDN*](https://github.com/leandromoreira/cdn-up-and-running) ⭐ 3,718 | 🐛 2 | 🌐 Lua | 📅 2026-01-21
 * [**JavaScript**: *Build Your Own Module Bundler - Minipack*](https://github.com/ronami/minipack) ⭐ 3,301 | 🐛 12 | 🌐 JavaScript | 📅 2021-02-14
@@ -534,4 +534,4 @@ This repository is the work of [many contributors](https://github.com/codecrafte
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
