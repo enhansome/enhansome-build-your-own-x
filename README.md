@@ -46,7 +46,7 @@ It's a great way to learn.
 
 #### Build your own `3D Renderer`
 
-* [**C++**: *How OpenGL works: software rendering in 500 lines of code*](https://github.com/ssloy/tinyrenderer/wiki) ⭐ 24,589 | 🐛 4 | 🌐 C++ | 📅 2026-07-29
+* [**C++**: *How OpenGL works: software rendering in 500 lines of code*](https://github.com/ssloy/tinyrenderer/wiki) ⭐ 24,591 | 🐛 4 | 🌐 C++ | 📅 2026-07-29
 * [**C++**: *Introduction to Ray Tracing: a Simple Method for Creating 3D Images*](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing/how-does-it-work)
 * [**C++**: *Raycasting engine of Wolfenstein 3D*](http://lodev.org/cgtutor/raycasting.html)
 * [**C++**: *Physically Based Rendering:From Theory To Implementation*](https://www.pbr-book.org/)
@@ -61,10 +61,10 @@ It's a great way to learn.
 
 #### Build your own `AI Model`
 
-* [**Python**: *A Large Language Model (LLM)*](https://github.com/rasbt/LLMs-from-scratch) ⭐ 109,124 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2026-11-26
-* [**Python**: *RAG for Document Search*](https://github.com/langchain-ai/rag-from-scratch) ⭐ 10,192 | 🐛 46 | 🌐 Jupyter Notebook | 📅 2025-06-26
-* [**Python**: *A Reasoning Model (LLM with inference-time scaling, GRPO and distillation)*](https://github.com/rasbt/reasoning-from-scratch) ⭐ 5,917 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-11-25
-* [**Python**: *Building a Coding Agent From Scratch*](https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course) ⭐ 1,256 | 🐛 7 | 🌐 Python | 📅 2026-10-24
+* [**Python**: *A Large Language Model (LLM)*](https://github.com/rasbt/LLMs-from-scratch) ⭐ 109,175 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2026-11-26
+* [**Python**: *RAG for Document Search*](https://github.com/langchain-ai/rag-from-scratch) ⭐ 10,195 | 🐛 46 | 🌐 Jupyter Notebook | 📅 2025-06-26
+* [**Python**: *A Reasoning Model (LLM with inference-time scaling, GRPO and distillation)*](https://github.com/rasbt/reasoning-from-scratch) ⭐ 5,920 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2026-11-25
+* [**Python**: *Building a Coding Agent From Scratch*](https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course) ⭐ 1,290 | 🐛 8 | 🌐 Python | 📅 2026-10-24
 * [**Python**: *Diffusion Models for Image Generation*](https://huggingface.co/learn/diffusion-course/en/unit1/3)
 * [**Python**: *An LLM Evaluation Harness (test cases, runner, rule-based and LLM judges)*](https://machinelearningmastery.com/building-a-custom-llm-evaluation-harness-in-python-from-scratch/)
 * [**Python**: *Sparse Autoencoders (toy models of superposition, then train your own SAE)*](https://learn.arena.education/chapter1_transformer_interp/34_superposition/)
@@ -263,7 +263,7 @@ It's a great way to learn.
 
 #### Build your own `Network Stack`
 
-* [**C / Python**: *Build your own VPN/Virtual Switch*](https://github.com/peiyuanix/build-your-own-zerotier) ⭐ 646 | 🐛 3 | 🌐 C | 📅 2024-02-20
+* [**C / Python**: *Build your own VPN/Virtual Switch*](https://github.com/peiyuanix/build-your-own-zerotier) ⭐ 647 | 🐛 3 | 🌐 C | 📅 2024-02-20
 * [**C**: *Beej's Guide to Network Programming*](http://beej.us/guide/bgnet/)
 * [**C**: *Let's code a TCP/IP stack*](http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
 * [**Ruby**: *How to build a network stack in Ruby*](https://medium.com/geckoboard-under-the-hood/how-to-build-a-network-stack-in-ruby-f73aeb1b661b)
@@ -327,12 +327,12 @@ It's a great way to learn.
 
 #### Build your own `Processor`
 
-* [**Verilog**: *From Blinker to RISC-V*](https://github.com/BrunoLevy/learn-fpga/tree/master/FemtoRV/TUTORIALS/FROM_BLINKER_TO_RISCV) ⭐ 3,798 | 🐛 84 | 🌐 C++ | 📅 2026-10-30
+* [**Verilog**: *From Blinker to RISC-V*](https://github.com/BrunoLevy/learn-fpga/tree/master/FemtoRV/TUTORIALS/FROM_BLINKER_TO_RISCV) ⭐ 3,801 | 🐛 84 | 🌐 C++ | 📅 2026-10-30
 
 #### Build your own `Programming Language`
 
 * [**JavaScript**: *The Super Tiny Compiler*](https://github.com/jamiebuilds/the-super-tiny-compiler) ⭐ 28,552 | 🐛 16 | 🌐 JavaScript | 📅 2024-02-19
-* [**C**: *A journey explaining how to build a compiler from scratch*](https://github.com/DoctorWkt/acwj) ⭐ 13,486 | 🐛 25 | 🌐 C | 📅 2026-06-06
+* [**C**: *A journey explaining how to build a compiler from scratch*](https://github.com/DoctorWkt/acwj) ⭐ 13,527 | 🐛 25 | 🌐 C | 📅 2026-06-06
 * [**(any)**: *mal - Make a Lisp*](https://github.com/kanaka/mal#mal---make-a-lisp) ⭐ 10,775 | 🐛 58 | 🌐 Assembly | 📅 2025-10-22
 * [**C**: *C interpreter that interprets itself.*](https://github.com/lotabout/write-a-C-interpreter) ⭐ 4,405 | 🐛 11 | 🌐 C | 📅 2025-11-22
 * [**Assembly**: *Jonesforth*](https://github.com/nornagon/jonesforth/blob/master/jonesforth.S) ⭐ 1,139 | 🐛 4 | 🌐 Assembly | 📅 2023-04-04
@@ -456,11 +456,11 @@ It's a great way to learn.
 
 #### Uncategorized
 
-* [**JavaScript**: *JavaScript Algorithms and Data Structures*](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,764 | 🐛 444 | 🌐 JavaScript | 📅 2026-07-26
+* [**JavaScript**: *JavaScript Algorithms and Data Structures*](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,766 | 🐛 444 | 🌐 JavaScript | 📅 2026-07-26
 * [**C++**: *Build your own VR headset for $200*](https://github.com/relativty/Relativty) ⭐ 7,278 | 🐛 29 | 🌐 C++ | 📅 2024-07-21
 * [**Rust**: *Building a DNS server in Rust*](https://github.com/EmilHernvall/dnsguide/blob/master/README.md) ⭐ 4,702 | 🐛 7 | 📅 2025-04-28
-* [**C**: *Learn how to write a hash table in C*](https://github.com/jamesroutley/write-a-hash-table) ⭐ 4,405 | 🐛 33 | 📅 2023-12-16
-* [**Lua**: *Building a CDN from Scratch to Learn about CDN*](https://github.com/leandromoreira/cdn-up-and-running) ⭐ 3,718 | 🐛 2 | 🌐 Lua | 📅 2026-01-21
+* [**C**: *Learn how to write a hash table in C*](https://github.com/jamesroutley/write-a-hash-table) ⭐ 4,403 | 🐛 33 | 📅 2023-12-16
+* [**Lua**: *Building a CDN from Scratch to Learn about CDN*](https://github.com/leandromoreira/cdn-up-and-running) ⭐ 3,719 | 🐛 2 | 🌐 Lua | 📅 2026-01-21
 * [**JavaScript**: *Build Your Own Module Bundler - Minipack*](https://github.com/ronami/minipack) ⭐ 3,301 | 🐛 12 | 🌐 JavaScript | 📅 2021-02-14
 * [**TypeScript**: *Tiny Package Manager: Learn how npm or Yarn works*](https://github.com/g-plane/tiny-package-manager) ⭐ 485 | 🐛 0 | 🌐 TypeScript | 📅 2024-11-29
 * [**Go**: *Video Encoding from Scratch*](https://github.com/kevmo314/codec-from-scratch) ⭐ 471 | 🐛 1 | 🌐 Go | 📅 2025-03-07
@@ -534,4 +534,4 @@ This repository is the work of [many contributors](https://github.com/codecrafte
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
